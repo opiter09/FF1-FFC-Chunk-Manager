@@ -6,7 +6,8 @@ as the _Decompressed files. If you run moves.bat, you will get a folder named "m
 decompMoves.bat then combines the chunks into a big file, and splits that file back apart into the _Decompressed files. From here you can drag-and-drop attack_defs
 onto MARtool-C.bat and voila! You now have a new version of the file with your edit(s).
 
-Similarly, to edit move descriptions, MARtool text_attack_info, then do basically the same as above but for the Move Descriptions folder here.
+Similarly, to edit move descriptions, MARtool text_attack_information (NOT text_attack_info), then do basically the same as above but for the Move Descriptions folder 
+here.
 
 The reason all this has to exist is that the location of key data (status effect, FP cost, etc.) is *very* inconsistent within each "chunk." So I cannot simply make a
 GUI to do the work for you.

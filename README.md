@@ -1,4 +1,4 @@
-# FFC_Chunk-Editor
+# FFC-Chunk-Editor
 This code to make editing the file attack_defs (and other files that feature pointers at the beginning) from the NDS Fossil Fighters games easier.
 It is designed for the Fossil Fighters Champions version of the file; small adjustments would have to be made to get it to work with FF1 (the hardest part would be 
 making a new name list). To use this, first split apart attack_defs with The Python MARtool (https://github.com/opiter09/MARtool), making sure you have the needed 

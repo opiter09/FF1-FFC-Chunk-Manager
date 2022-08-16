@@ -6,7 +6,7 @@ Here is an outline of the process:
 1. Use Nitro Explorer, Crystal Tiles 2, etc. to split apart the ROM.
 2. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, or battle move descriptions. Then grab, in that order: etc/attack_defs, etc/creature_defs,
 text/text_attack_information, or text/text_attack_info.
-3. Download The Python MARtool, which can be found at https://github.com/opiter09/MARtool. Unzip it, and place the file from step 2 in the same folder as MARtool.bat.
+3. Download The Python MARtool, which can be found at https://github.com/opiter09/MARtool. Unzip it, and place the file from step 2 in the same folder as MARtool.py.
 4. Using the link in The Python MARtool's Readme, download the "CUE" series of decompression tools. Put all the exe's you end up with from that into the same folder as MARtool.py.
 5. Drag the file from Step 2 onto MARtool.bat, or Command-Line "python MARtool.py filename" if you're not on Windows. This will generate a new folder, and an MCM and folder inside that.
 6. Select from among the folders in this repository the one that corresponds to your file: Attack Data for attack_defs, Battle Move Descriptions for text_attack_info,
@@ -17,7 +17,7 @@ appropriately named for easy editing.
 8. Edit those to youe heart's content, using my Documentation.txt as a guide. This requires use of a Hex Editor (I use HxD), and some program to convert Hex to Decimal and back (Windows'
 Calculator app has a "programming" mode that can do this).
 9. Now you can run the "decomp"-whatever batch/python. This will seem to do nothing, because it only changes existing files.
-10. Go back out a few folders to where MARtool.py is. Now drag your Step 2 file onto MARtool-C.bat (or Command Line "python MARtool-C.pu filename). This will create a much larger file
+10. Go back out a few folders to where MARtool.py is. Now drag your Step 2 file onto MARtool-C.bat (or Command Line "python MARtool-C.py filename"). This will create a much larger file
 named "output_filename."
 11. Insert that new file back into the ROM.
 

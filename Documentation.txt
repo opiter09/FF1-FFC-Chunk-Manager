@@ -68,11 +68,14 @@ possible vivos to transform into)
 06: Spite Blast (bytes after pecent are 07 00, extra value is damage amount)
 07: Power Scale [equalize FP] (bytes after percent are 07 00, no extra value)
 08: Rotate (bytes after percent are 07 00, no extra value)
+09: ???
 0A: Heal whole team (bytes after pecent are 05 00, extra value is healing amount)
 0B: Sacrifice [nearly kill self to heal allies] (bytes after percent are 07 00, no extra value)
 0C: Law of the Jungle [nearly kill ally and gain health] (bytes after percent are 07 00, no extra value)
 0D: Healing (bytes after percent are 01 00, extra value is healing amount)
+0E: ???
 0F: Cure all statuses (bytes after percent are 07 00, no extra value)
+10: ???
 11: Randomly attack enemy team (bytes after percent are 07 00, no extra value)
 12: Infection (bytes after percent are 07 00, extra value is 04 00, and since the wiki says it's
 five turns to death I wager this controls that)

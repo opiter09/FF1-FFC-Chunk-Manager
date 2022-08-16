@@ -10,7 +10,7 @@ text = open("names.txt", "rt").read()
 
 import os
 try:
-    os.mkdir("descrFiles")
+    os.mkdir("battleDescrFiles")
 except OSError as error:
     pass
         

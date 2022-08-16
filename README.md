@@ -1,16 +1,24 @@
 # FFC-Chunk-Editor
-This code to make editing the file attack_defs (and other files that feature pointers at the beginning) from the NDS Fossil Fighters games easier.
-It is designed for the Fossil Fighters Champions version of the file; small adjustments would have to be made to get it to work with FF1 (the hardest part would be 
-making a new name list). To use this, first split apart attack_defs with The Python MARtool (https://github.com/opiter09/MARtool), making sure you have the needed 
-executables. Then drop the files from Attack Data here in the same folder as the _Decompressed files. If you run moves.bat, you will get a folder named "moveFiles," 
-which features a list of little "chunks" of hex for each move. Running decompMoves.bat then combines the chunks into a big file, and splits that file back apart into the 
-_Decompressed files. From here you can drag-and-drop attack_defs onto MARtool-C.bat and voila! You now have a new version of the file with your edit(s).
+This is code to make editing the files from from the NDS Fossil Fighters games (just FFC right now until FF1's text is cracked) relating to vivosaur moves easier.
 
-Similarly, to edit move descriptions, MARtool text_attack_information (NOT text_attack_info), then do basically the same as above but for the Move Descriptions folder 
-here. The folder Battle Move Descriptions is for the totally different file text_attack_info, but same process. Or for vivosaur files, use the code in Vivo Data and the
-file creature_defs.
+Here is an outline of the process:
 
-The reason all this has to exist is that the location of key data (status effect, FP cost, etc.) is *very* inconsistent within each "chunk." So I cannot simply make a
-GUI to do the work for you.
+1. Use Nitro Explorer, Crystal Tiles 2, etc. to split apart the ROM.
+2. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, or battle move descriptions. Then grab, in that order: etc/attack_defs, etc/creature_defs,
+text/text_attack_information, or text/text_attack_info.
+3. Download The Python MARtool, which can be found at https://github.com/opiter09/MARtool. Unzip it, and place the file from step 2 in the same folder as MARtool.bat.
+4. Using the link in The Python MARtool's Readme, download the "CUE" series of decompression tools. Put all the exe's you end up with from that into the same folder as MARtool.py.
+5. Drag the file from Step 2 onto MARtool.bat, or Command-Line "python MARtool.py filename" if you're not on Windows. This will generate a new folder, and an MCM and folder inside that.
+6. Select from among the folders in this repository the one that corresponds to your file: Attack Data for attack_defs, Battle Move Descriptions for text_attack_info,
+Move Descriptions for text_attack_information, and Vivo Data for creature_defs. Move the contents of that folder to the folder within the folder created in Step 5, i.e. the
+folder with the "_Decompressed" files in it.
+7. Run the batch file (or Command-Line the python file if not on Windows) which does NOT have "decomp" in its name. This will create a folder full of little chunks, which are
+appropriately named for easy editing.
+8. Edit those to youe heart's content, using my Documentation.txt as a guide. This requires use of a Hex Editor (I use HxD), and some program to convert Hex to Decimal and back (Windows'
+Calculator app has a "programming" mode that can do this).
+9. Now you can run the "decomp"-whatever batch/python. This will seem to do nothing, because it only changes existing files.
+10. Go back out a few folders to where MARtool.py is. Now drag your Step 2 file onto MARtool-C.bat (or Command Line "python MARtool-C.pu filename). This will create a much larger file
+named "output_filename."
+11. Insert that new file back into the ROM.
 
 Credits go to jianminyong for generating this table of attack names.

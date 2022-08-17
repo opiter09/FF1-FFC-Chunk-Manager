@@ -3,6 +3,7 @@ This is code to make editing the files from from the NDS Fossil Fighters games (
 
 Here is an outline of the process:
 
+0. Install Python (3+) from https://www.python.org/
 1. Use Nitro Explorer, Crystal Tiles 2, etc. to split apart the ROM.
 2. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, or battle move descriptions. Then grab, in that order: etc/attack_defs, etc/creature_defs,
 text/text_attack_information, or text/text_attack_info.

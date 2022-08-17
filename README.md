@@ -22,4 +22,10 @@ Calculator app has a "programming" mode that can do this).
 named "output_filename."
 11. Insert that new file back into the ROM.
 
+For CrystalTiles 2, insert the file as follows:
+1. Load your ROM into it, go to File -> NDS File System. For convenience, click View a list of -> Directory to show files inside folders instead of in one
+gigantic list. Then scroll down to your file.
+12. Left click the file to select it, then right click, press Import, and choose your edited file.
+3. Now save the ROM. CrystalTile2 is weird, so you have to save by trying to quit and then clicking No to cancel. Then quit for real to be done.
+
 Credits go to jianminyong for generating this table of attack names.

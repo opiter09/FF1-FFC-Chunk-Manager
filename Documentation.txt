@@ -64,7 +64,7 @@ SECONDARY (0x20-0x21):
 at 0x30 and are each one byte. Once again ID = vivoFiles file number + 1. Also 0x28 is the number of
 possible vivos to transform into)
 03: All-zone attack (always 0%, bytes after percent are 07 00, no extra value. Can hit your team if
-used with a support effect like Harden.)
+used with a support effect like Harden, and can actually deal damage unlike with single-targeting.)
 04: Steal LP Equal to Damage (bytes after percent are 07 00, no extra value)
 05: Steal FP (bytes after percent are 07 00, extra value is stealing amount)
 06: Spite Blast (bytes after pecent are 07 00, extra value is damage amount)

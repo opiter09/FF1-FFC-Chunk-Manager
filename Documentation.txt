@@ -18,6 +18,23 @@ move's line number in names.text, aka their file's number in moveFiles + 1. All 
 Crit rate is always at 0x12, and reduplicated at 0x13 for some reason. Link chance is at 0x14; both
 are out of 100.
 
+A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
+non-zero chance. Here's the table for this:
+04: FP Plus
+05: Parting Blow
+06: Auto LP Recovery
+07: Auto Counter
+0D: Elemental Boost
+0E: Position Lock
+0F: FP Absorb
+10: Solo Power
+11: Berserker
+12: Enter with Gold Status
+13: ??? Enter with Normal Status, maybe?
+14: Resurrect
+
+The location of Parting Blow percents, the ID of the status applied, etc. are currently unknown.
+
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes
 are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second is percent (e.g. 0x64 is

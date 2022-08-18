@@ -190,12 +190,12 @@ B-Jara
 B-Plesio
 Zongazonga
 Tonzilla
-Pachrino
-Dilopho
-Shoni
-T-Rex
-Dimorph
-Zino
+Pachrino [Debug]
+Dilopho [Debug]
+Shoni [Debug]
+T-Rex [Debug]
+Dimorph [Debug]
+Zino [Debug]
 Dinomaton
 Duna
 Raptin

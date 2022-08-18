@@ -15,7 +15,8 @@ When it comes to vivosaur chunks, for (almost?) every vivosaur the moves are fro
 normal four (or three), and 0x4E to 0x4F for the Team Skill. The values are the hex versions of that
 move's line number in names.text, aka their file's number in moveFiles + 1. All values are two bytes here.
 
-Crit rate is always be at 0x12, and reduplicated at 0x13 for some reason.
+Crit rate is always be at 0x12, and reduplicated at 0x13 for some reason. Link chance is at 0x14; both
+are out of 100.
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes

@@ -6,13 +6,7 @@ is unknown. Presumably, however, there is a very similar structure.
 When I say "chunk," I mean a portion of attack_defs or creature_defs determined by the location of
 two adjacent pointers at the beginning of those files.
 
-If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
 
-Move FP/damage can (usually) be found at 0x18 to 0x1F. It's also usually reduplicated, so you get two
-bytes of FP, then two bytes of damage, then two bytes of FP, and then two bytes of damage. The damage 
-is BASE damage, i.e. Wiki Damage - Wiki Attack Stat.
-
-To make a move have --- and deal no damage, literally set the damage values to 0.
 
 When it comes to vivosaur chunks, for (almost?) every vivosaur the moves are from 0xBC to 0xC3 for the
 normal four (or three), and 0x4E to 0x4F for the Team Skill. The values are the hex versions of that
@@ -49,6 +43,8 @@ For the other stats, the Rank 1 and Rank 20 amounts are just next to each other.
 then 0x08 and 0x09 are Defense, then 0x0C to 0x0D are Accuracy, and then 0x10 and 0x11 are Speed. The
 values between are presumably some sort of growth rate indicator.
 
+0xC4 to 0xCB are the levels each move is learned at (two bytes each).
+
 Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
 Which side the supports affect currently cannot be determined/changed. Vivosaurs with no support effects
@@ -58,6 +54,8 @@ On that point: after support effects if they are there is usually 01 02 03 04. T
 has four non-team skills. For vivosaurs like Cheirus with only three, there is 01 02 03 00 there instead.
 To be clear, to make a skill "no skill" in the ID area, use 00 00.
 
+
+
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes
 are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second is percent (e.g. 0x64 is
@@ -65,6 +63,14 @@ are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second 
 
 If a chunk is longer than 0x30, the secondary stuff will be that many bytes later than what is said here.
 Hopefully.
+
+If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
+
+Move FP/damage can (usually) be found at 0x18 to 0x1F. It's also usually reduplicated, so you get two
+bytes of FP, then two bytes of damage, then two bytes of FP, and then two bytes of damage. The damage 
+is BASE damage, i.e. Wiki Damage - Wiki Attack Stat.
+
+To make a move have --- and deal no damage, literally set the damage values to 0.
 
 Moves with a value attached, like healing, have theirs on the third and fourth bytes after the percent,
 as a two-byter. If there is no value, it's just 00 00 there. The two-byter in between seems to specify

@@ -52,8 +52,11 @@ values between are presumably some sort of growth rate indicator.
 Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
 Which side the supports affect currently cannot be determined/changed. Vivosaurs with no support effects
-at all simply have four less bytes in their chunk, and what is here is whatever other vivosaurs have
-after it.
+at all simply have four less bytes in their chunk, and what is here is how many moves a vivo has.
+
+On that point: after support effects if they are there is usually 01 02 03 04. This means that a vivosaur
+has four non-team skills. For vivosaurs like Cheirus with only three, there is 01 02 03 00 there instead.
+To be clear, to make a skill "no skill" in the ID area, use 00 00.
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes

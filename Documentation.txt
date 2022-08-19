@@ -45,6 +45,10 @@ The location of Parting Blow percents, the ID of the status applied, etc. are cu
 A vivosaur's health for each level takes up the last 40 bytes of a chunk (so starting at 0xD0). Obviously,
 each health amount is thus two bytes each (for Ranks 1 to 20).
 
+For the other stats, the Rank 1 and Rank 20 amounts are just next to each other. 0x04 and 0x05 are Attack,
+then 0x08 and 0x09 are Defense, then 0x0C to 0x0D are Accuracy, and then 0x10 and 0x11 are Speed. The
+values between are presumably some sort of growth rate indicator.
+
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes
 are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second is percent (e.g. 0x64 is

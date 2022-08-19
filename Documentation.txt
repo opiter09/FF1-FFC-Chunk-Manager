@@ -51,7 +51,8 @@ values between are presumably some sort of growth rate indicator.
 
 Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
-Which side the supports affect currently cannot be determined/changed.
+Which side the supports affect currently cannot be determined/changed. Vivosaurs with no support effects
+at all have 01 02 03 04 here.
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes

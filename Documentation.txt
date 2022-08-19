@@ -9,7 +9,7 @@ Move FP/damage can (usually) be found at 0x18 to 0x1F. It's also usually redupli
 bytes of FP, then two bytes of damage, then two bytes of FP, and then two bytes of damage. The damage 
 is BASE damage, i.e. Wiki Damage - Wiki Attack Stat.
 
-To make a move have -- and deal no damage, literally set the damage values to 0.
+To make a move have --- and deal no damage, literally set the damage values to 0.
 
 When it comes to vivosaur chunks, for (almost?) every vivosaur the moves are from 0xBC to 0xC3 for the
 normal four (or three), and 0x4E to 0x4F for the Team Skill. The values are the hex versions of that
@@ -38,6 +38,9 @@ non-zero chance. Here's the table for this:
 14: Resurrect
 
 The location of Parting Blow percents, the ID of the status applied, etc. are currently unknown.
+
+A vivosaur's health for each level takes up the last 40 bytes of a chunk (so starting at 0xD0). Obviously,
+each health amount is thus two bytes each (for Ranks 1 to 20).
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes

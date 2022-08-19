@@ -42,8 +42,8 @@ non-zero chance. Here's the table for this:
 
 The location of Parting Blow percents, the ID of the status applied, etc. are currently unknown.
 
-A vivosaur's health for each level takes up the last 40 bytes of a chunk (so starting at 0xD0). Obviously,
-each health amount is thus two bytes each (for Ranks 1 to 20).
+A vivosaur's health for each level takes up the last 40 bytes of a chunk. Obviously, each health amount is
+thus two bytes each (for Ranks 1 to 20).
 
 For the other stats, the Rank 1 and Rank 20 amounts are just next to each other. 0x04 and 0x05 are Attack,
 then 0x08 and 0x09 are Defense, then 0x0C to 0x0D are Accuracy, and then 0x10 and 0x11 are Speed. The
@@ -52,7 +52,8 @@ values between are presumably some sort of growth rate indicator.
 Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
 Which side the supports affect currently cannot be determined/changed. Vivosaurs with no support effects
-at all have 01 02 03 04 here.
+at all simply have four less bytes in their chunk, and what is here is whatever other vivosaurs have
+after it.
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).
 If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes

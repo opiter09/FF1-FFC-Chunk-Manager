@@ -1,5 +1,8 @@
 EVERYTHING IS LITTLE-ENDIAN
 
+This is all for FFC only, because FF1's text cannot be cracked and so the order of vivosaurs, moves, etc.
+is unknown. Presumably, however, there is a very similar structure.
+
 When I say "chunk," I mean a portion of attack_defs or creature_defs determined by the location of
 two adjacent pointers at the beginning of those files.
 

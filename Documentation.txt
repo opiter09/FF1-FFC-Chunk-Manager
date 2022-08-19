@@ -20,10 +20,14 @@ are out of 100.
 
 A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
 non-zero chance. Here's the table for this:
+01: nothing
+02: ???
+03: ???
 04: FP Plus
 05: Parting Blow
 06: Auto LP Recovery
 07: Auto Counter
+08-0C: Probably intentional gap
 0D: Elemental Boost
 0E: Position Lock
 0F: FP Absorb

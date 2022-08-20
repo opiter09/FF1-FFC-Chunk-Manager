@@ -58,6 +58,14 @@ On that point: after support effects if they are there is usually 01 02 03 04. T
 has four non-team skills. For vivosaurs like Cheirus with only three, there is 01 02 03 00 there instead.
 To be clear, to make a skill "no skill" in the ID area, use 00 00.
 
+That block mostly seems redundant to me, especially since 0x9C *also* contains the number of moves.
+However, it is important for one thing and one thing only: the beginning and ending bytes of this block
+are stored at 0xB0 and 0xB8, respectively. You HAVE to change these if you want to add or remove 
+support effects entirely, i.e. when you add or delete bytes.
+
+Final word of warning: as with all things, if the file size is different (looking at you, Tonzilla), make
+sure to change my locations accordingly. Every value from vanilla should be known, so just look for it.
+
 
 
 For moves, the status seems to be in two different places (and notably unrelated to description text).

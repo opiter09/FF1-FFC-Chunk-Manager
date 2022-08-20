@@ -47,7 +47,7 @@ values between are presumably some sort of growth rate indicator.
 
 0xA4 to 0xAB tells you what side the vivosaur's support effects apply to. CC 00 00 00 00 00 00 00
 means your side, 00 00 00 00 CC 00 00 00 means their side, and all zeroes means the vivosaur has no
-support effects. Why CC? The world may never know.
+support effects at all. Why CC? The world may never know.
 
 Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.

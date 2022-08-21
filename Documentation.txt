@@ -53,6 +53,11 @@ Resurrect: Z-Rex has a 02 here, even though this ability activates after three t
 similar to how Infection has a 04 despite it taking 5 turns to kill (see below), so we can safely say
 that this controls how many turns it takes to come back.
 
+WARNING: If you give a vivosaur Start with a Status using a status that no vanilla vivosaur starts with,
+that vivosaur will show a completely tetxless blue box when you view its stats anywhere. However, since
+this is effect happens right at the beginning, it is not too unreasonable to just write down somewhere
+what they have.
+
 A vivosaur's health for each level takes up the last 40 bytes of a chunk. Obviously, each health amount is
 thus two bytes each (for Ranks 1 to 20).
 

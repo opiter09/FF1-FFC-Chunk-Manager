@@ -8,6 +8,9 @@ two adjacent pointers at the beginning of those files.
 
 
 
+A vivosaur's element is at 0x01. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water, 05 is Neutral, and
+06 is Legendary.
+
 When it comes to vivosaur chunks, for (almost?) every vivosaur the moves are from 0xBC to 0xC3 for the
 normal four (or three), and 0x4E to 0x4F for the Team Skill. The values are the hex versions of that
 move's line number in names.text, aka their file's number in moveFiles + 1. All values are two bytes here.

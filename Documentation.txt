@@ -165,7 +165,9 @@ five turns to death I wager this controls that)
 
 WARNING: For certain vivosaurs that are palette swaps of other ones [e.g. T-Rex Lord and Mapo King], the
 wrong model and sprite may be shown when you Transform into them. This has no effect on gameplay since the
-moves are all correct; this is just a cosmetic issue.
+moves are all correct; this is just a cosmetic issue. It is believed that this is caused by transformation
+ignoring Silver Fossil recolorings, and such super evolvers being all internally considered recolors
+of the same model.
 
 
 This is not a chunk file, so it's hiding down here, but etc/btl_kp_defs controls how much FP you have

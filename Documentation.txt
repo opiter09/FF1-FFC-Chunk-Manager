@@ -30,11 +30,28 @@ non-zero chance. Here's the table for this:
 0F: FP Absorb
 10: Solo Power
 11: Berserker
-12: Enter with Gold Status
-13: ??? Enter with Normal Status, maybe?
+12: Enter with a Status
+13: ???
 14: Resurrect
 
-The location of Parting Blow percents, the ID of the status applied, etc. are currently unknown.
+For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
+that another table is in order:
+nothing: Always 00
+FP Plus: (+Percent + 100) / 10
+Parting Blow: Percent / 10
+Auto LP Recovery: Percent
+Auto Counter: Since it is always 0x64 here, this is most likely the chance to trigger
+Elemental Boost: Always 00
+Position Lock: Always 00
+FP Absorb: Percent of incoming move's FP cost gained
+Solo Power: Always 00
+Berserker: Hopter has a 231 in this slot. Since 231 / 256 = 90%, I hypothesize that this represents the
+chance of not being able to use a move when you select it.
+Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
+effect table given below.
+Resurrect: Z-Rex has a 02 here, even though this ability activates after three turns. However, this is
+similar to how Infection has a 04 despite it taking 5 turns to kill (see below), so we can safely say
+that this controls how many turns it takes to come back.
 
 A vivosaur's health for each level takes up the last 40 bytes of a chunk. Obviously, each health amount is
 thus two bytes each (for Ranks 1 to 20).
@@ -143,7 +160,7 @@ five turns to death I wager this controls that)
 14: Heal and cure statuses for whole team (bytes after percent are 05 00, extra value is healing amount)
 15: Fickle Goddess [boost a stat randomly] (bytes after percent are 07 00, no extra value)
 16: Inflict effects randomly (bytes after percent are 07 00, no extra value)
-17: Instant KO (bytes after percent are 07 00, extra value is chance out of 255)
+17: Instant KO (bytes after percent are 07 00, extra value is chance out of 256)
 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
 
 WARNING: For certain vivosaurs that are palette swaps of other ones [e.g. T-Rex Lord and Mapo King], the

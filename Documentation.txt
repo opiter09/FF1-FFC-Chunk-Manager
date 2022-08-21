@@ -18,6 +18,10 @@ move's line number in names.text, aka their file's number in moveFiles + 1. All 
 Crit rate is always at 0x12, and reduplicated at 0x13 for some reason. Link chance is at 0x14; both
 are out of 100.
 
+A vivosaur's Diet is at 0x15, although do note that that portion of its Fossilary entry is controlled
+by a separate text file (text/text_museum). 01 is Carnivore, 02 is Herbivore, 03 is Omnivore, and 04 is
+Unknown.
+
 A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
 non-zero chance. Here's the table for this:
 01: nothing

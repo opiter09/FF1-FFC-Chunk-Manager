@@ -136,8 +136,8 @@ PRIMARY (first two bytes):
 0C: Gold Confusion
 0D: Normal Excite
 0E: Gold Excite
-0F: Counter (Percent is listed as 100, 70% chance is hardcoded)
-10: Super Counter (Percent is listed as 100, 100% chance is hardcoded)
+0F: Counter (Percent is for whether it is applied, 70% chance to counter is hardcoded)
+10: Super Counter (Percent is for whether it is applied, 100% chance to counter is hardcoded)
 11: Enflame
 12: Super Enflame
 13: Harden

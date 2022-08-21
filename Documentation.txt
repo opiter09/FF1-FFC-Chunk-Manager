@@ -146,6 +146,9 @@ five turns to death I wager this controls that)
 17: Instant KO (bytes after percent are 07 00, extra value is chance out of 255)
 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
 
+WARNING: For certain vivosaurs that are palette swaps of other ones [e.g. T-Rex Lord and Mapo King], the
+wrong model and sprite may be shown when you Transform into them. This has no effect on gameplay since the
+moves are all correct; this is just a cosmetic issue.
 
 
 This is not a chunk file, so it's hiding down here, but etc/btl_kp_defs controls how much FP you have

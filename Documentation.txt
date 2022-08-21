@@ -45,8 +45,8 @@ Elemental Boost: Always 00
 Position Lock: Always 00
 FP Absorb: Percent of incoming move's FP cost gained
 Solo Power: Always 00
-Berserker: Hopter has a 231 in this slot. Since 231 / 256 = 90%, I hypothesize that this represents the
-chance of not being able to use a move when you select it.
+Berserker: This is the only ability where 0x56 may be something other than 00, since this is what move
+Hopter always uses when woozy. By default, it is E7 01, i.e. Beak Stab.
 Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
 effect table given below.
 Resurrect: Z-Rex has a 02 here, even though this ability activates after three turns. However, this is

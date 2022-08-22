@@ -175,7 +175,7 @@ used with a support effect like Harden, and can actually deal damage unlike with
 0E: Unused, it heals one other ally only (bytes after percent are unknown, extra value is healing amount)
 0F: Cure all statuses (bytes after percent are 07 00, no extra value)
 10: Unused, it's Rotate except it deals no damage even with a damage value assigned (bytes after percent
-are unknown, no extra value)
+are unknown, no extra value). This may be how Slippery Ice is implemented.
 11: Randomly attack enemy team (bytes after percent are 07 00, no extra value)
 12: Infection (bytes after percent are 07 00, extra value is 04 00, and since the wiki says it's
 five turns to death I wager this controls that)

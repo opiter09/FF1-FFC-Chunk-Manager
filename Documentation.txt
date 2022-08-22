@@ -47,8 +47,9 @@ non-zero chance. Here's the table for this:
 13: Japanese for "Increased damage against specific attributes"
 14: Resurrect
 
-The "Japanese for" effects seem to not do what they say, or indeed anything at all. Some may have only
-worked on debug builds, while others may only have worked in FF1 (looking at you, 09).
+The "Japanese for" effects are, of course, unused, and they also seem to not do what they say, or indeed
+anything at all. Some may have only worked on debug builds, while others may only have worked in
+FF1 (looking at you, 09).
 
 For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
 that another table is in order:
@@ -166,14 +167,15 @@ used with a support effect like Harden, and can actually deal damage unlike with
 06: Spite Blast (bytes after pecent are 07 00, extra value is damage amount)
 07: Power Scale [equalize FP] (bytes after percent are 07 00, no extra value)
 08: Rotate (bytes after percent are 07 00, no extra value)
-09: ???
+09: Unused, it heals youself only (bytes after percent are unknown, extra value is healing amount)
 0A: Heal whole team (bytes after pecent are 05 00, extra value is healing amount)
 0B: Sacrifice [nearly kill self to heal allies] (bytes after percent are 07 00, no extra value)
 0C: Law of the Jungle [nearly kill ally and gain health] (bytes after percent are 07 00, no extra value)
 0D: Healing (bytes after percent are 01 00, extra value is healing amount)
-0E: ???
+0E: Unused, it heals one other ally only (bytes after percent are unknown, extra value is healing amount)
 0F: Cure all statuses (bytes after percent are 07 00, no extra value)
-10: ???
+10: Unused, it's Rotate except it deals no damage even with a damage value assigned (bytes after percent
+are unknown, no extra value)
 11: Randomly attack enemy team (bytes after percent are 07 00, no extra value)
 12: Infection (bytes after percent are 07 00, extra value is 04 00, and since the wiki says it's
 five turns to death I wager this controls that)

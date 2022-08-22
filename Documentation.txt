@@ -27,21 +27,28 @@ A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, an
 A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
 non-zero chance. Here's the table for this:
 01: nothing
-02: ???
-03: ???
+02: Japanese for "View enemy details during battle"
+03: Japanese for "Dinosaur placement randomization"
 04: FP Plus
 05: Parting Blow
 06: Auto LP Recovery
 07: Auto Counter
-08-0C: Probably intentional gap
+08: Japanese for "Status effect ability change disabled"
+09: Japanese for "Support attack rate up"
+0A: Japanese for "Makes it easier to obtain certain kinds of rocks"
+0B: Japanese for "Increased movement speed"
+0C: Japanese for "Can overcome obstacles"
 0D: Elemental Boost
 0E: Position Lock
 0F: FP Absorb
 10: Solo Power
 11: Berserker
 12: Enter with a Status
-13: ???
+13: Japanese for "Increased damage against specific attributes"
 14: Resurrect
+
+The "Japanese for" effects seem to not do what they say, or indeed anything at all. Some may have only
+worked on debug builds, while others may only have worked in FF1 (looking at you, 09).
 
 For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
 that another table is in order:

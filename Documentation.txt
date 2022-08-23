@@ -197,3 +197,10 @@ This is not a chunk file, so it's hiding down here, but etc/btl_kp_defs controls
 per hero level. Each row's 0x?C is the level number, then the next row's 0x?0-0x?1 are the max FP recharge,
 and that row's 0x?2-0x?3 and 0x?6-0x?7 are the recharge per turn. Presuambly, one of these is for you,
 and the other is for enemies. Or not, I don't know, because htey're always the same in vanilla.
+
+This also is not a chunk file, but it is a mouthful: etc/creature_evolution_abilityup_param_defs
+controls the stat boosts of Gold and Silver fossils. The first 16 bytes are a header thing, then each
+set of 12 bytes are the fossil's data: two bytes for ID, two bytes for Health, two bytes for Attack boost,
+two bytes for Defense boost, two bytes for Accuracy boost, and two bytes for Speed boost. All values are
+what you get if the fossil is cleaned to a full 100 points. In terms of order, it starts with the Gold
+fossil, then the Silver Head, then the Body, then the Arms, and finally the Legs.

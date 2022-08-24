@@ -198,7 +198,7 @@ PRIMARY (first two bytes):
 18: Super Charge (unused)
 
 SECONDARY (0x20-0x21):
-01: nothing
+01: nothing (everything is 00)
 02: Transformation (bytes after percent are 07 00, extra value is always 01 00, vivosaur IDs start
 at 0x30 and are each one byte. Once again ID = vivoFiles file number + 1. Also 0x28 is the number of
 possible vivos to transform into)

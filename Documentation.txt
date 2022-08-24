@@ -141,6 +141,9 @@ skip over it):
 31: Group 26
 32: Group 25
 
+Note: these Groups come from the Wiki. See
+https://fossilfighters.fandom.com/wiki/List_of_Compatible_Vivosaurs for more information.
+
 Final word of warning: as with all things, if the file size is different (looking at you, Tonzilla), make
 sure to change my locations accordingly. Every value from vanilla should be known, so just look for it.
 

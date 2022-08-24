@@ -104,8 +104,39 @@ support effects entirely, i.e. when you add or delete bytes.
 
 The team compatibility of a vivosaur can be found from 0x5C to 0x5F. It is stored not in hex, but in
 binary, with each 1 of this 32-bit integer denoting a team it is in, and each 0 denoting a team it is
-not it. Writing out the list of these would be an absolute pain, so at present this is left as an
-exercise for the reader (search for "List of Compatible Vivosaurs" in the Wiki).
+not in. Here is the table for that (it's very long, feel free to skip over it):
+1: Group 8
+2: Group 7
+3: Group 6 (Violent)
+4: Group 5 (Neutral-types)
+5: Group 4 (Water-Types)
+6: Group 3 (Earth-Types)
+7: Group 2 (Air-Types)
+8: Group 1 (Fire-Types)
+9: Group 16 (Japanese)
+10: Group 15
+11: Group 14
+12: Group 13
+13: Group 12
+14: Group 11
+15: Group 10
+16: Group 9
+17: Group 24
+18: Group 23 (Zombie)
+19: Group 22 (Boney)
+20: Group 21
+21: Group 20
+22: Group 19
+23: Group 18
+24: Group 17
+25: Unused "Group 32"
+26: Group 31
+27: Group 30 (Dinaurians)
+28: Group 29
+29: Group 28
+30: Group 27
+31: Group 26
+32: Group 25
 
 Final word of warning: as with all things, if the file size is different (looking at you, Tonzilla), make
 sure to change my locations accordingly. Every value from vanilla should be known, so just look for it.

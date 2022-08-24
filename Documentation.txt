@@ -104,7 +104,8 @@ support effects entirely, i.e. when you add or delete bytes.
 
 The team compatibility of a vivosaur can be found from 0x5C to 0x5F. It is stored not in hex, but in
 binary, with each 1 of this 32-bit integer denoting a team it is in, and each 0 denoting a team it is
-not in. Here is the table for that (it's very long, feel free to skip over it):
+not in. When converting, do not swap the bytes around or anything, type them in exactly as you see them
+(i.e. big-endian). Here is the table for groups (it's very long, feel free to skip over it):
 1: Group 8
 2: Group 7
 3: Group 6 (Violent)

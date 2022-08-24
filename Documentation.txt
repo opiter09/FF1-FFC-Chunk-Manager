@@ -102,6 +102,11 @@ moves. However, it is important for one thing and one thing only: the beginning 
 block are stored at 0xB0 and 0xB8, respectively. You HAVE to change these if you want to add or remove 
 support effects entirely, i.e. when you add or delete bytes.
 
+The team compatibility of a vivosaur can be found from 0x5C to 0x5F. It is stored not in hex, but in
+binary, with each 1 of this 32-bit integer denoting a team it is in, and each 0 denoting a team it is
+not it. Writing out the list of these would be an absolute pain, so at present this is left as an
+exercise for the reader (search for "List of Compatible Vivosaurs" in the Wiki).
+
 Final word of warning: as with all things, if the file size is different (looking at you, Tonzilla), make
 sure to change my locations accordingly. Every value from vanilla should be known, so just look for it.
 

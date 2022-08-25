@@ -7,8 +7,8 @@ Here is an outline of the process:
 2. Install Python (3+) from https://www.python.org/ (or, if you are on Windows, you can do what I recommend and get it from the Microsoft Store by opening up the Command
 Prompt and typing the word "python" by itself, then hitting Enter).
 3. Use Nitro Explorer, Crystal Tiles 2, etc. to split apart the ROM.
-4. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, or vivosaur descriptions. Then grab, in that order:
-etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, or text/text_dino_information.
+4. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, move names, or vivosaur descriptions. Then grab, in that order:
+etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, text/text_attack_name, or text/text_dino_information.
 5. Download The Python MARtool, which can be found at https://github.com/opiter09/MARtool. Unzip it, and place the file from step 2 in the same folder as MARtool.py.
 6. Using the link in The Python MARtool's Readme, download the "CUE" series of decompression tools. Put all the exe's you end up with from that into the same folder as MARtool.py.
 7. Drag the file from Step 4 onto MARtool.bat, or Command-Line "python MARtool.py filename" if you're not on Windows. This will generate a new folder, and an MCM and folder inside that.

@@ -1,11 +1,4 @@
-binn = open("combined.bin", "wb")
-binn.write(open("_Decompressed_00000028.bin", "rb").read())
-binn.write(open("_Decompressed_00001028.bin", "rb").read())
-binn.write(open("_Decompressed_00001F70.bin", "rb").read())
-binn.write(open("_Decompressed_00002DFC.bin", "rb").read())
-binn.close()
-
-binn2 = open("combined.bin", "rb")
+binn2 = open("0.bin", "rb")
 bytE = binn2.read()
 text = open("vivoNames.txt", "rt").read()
 
@@ -22,7 +15,7 @@ for i in range(210):
         newOffset = 25340
         newOffset = newOffset.to_bytes(4, "little")
     
-    newFile = open("vivoDescrFiles/" + text.split("\n")[i] + "_" + str(i) + ".bin", "wb")
+    newFile = open("vivoDescrFiles/" + text.split("\n")[i] + "_" + str(i + 1) + ".bin", "wb")
     newFile.write(bytE[int.from_bytes(oldOffset, "little"):int.from_bytes(newOffset, "little")])
     newFile.close()
     

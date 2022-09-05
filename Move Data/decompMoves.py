@@ -3,9 +3,9 @@ text = open("names.txt", "rt").read()
 
 binn = open("0.bin", "rb")
 section = binn.read(24)
-binn.seek(3220)
-section2 = binn.read(24)
-binn.seek(42556)
+binn.seek(3216)
+section2 = binn.read(28)
+binn.seek(int.from_bytes(section2[0:4], "little"))
 section3 = binn.read(24)
 binn.close()
 
@@ -24,7 +24,7 @@ for i in range(1, 800):
     binn.close()
 
 binn = open("0.bin", "ab")
-binn.write(section2)
+binn.write(section2[4:28])
 
 binn = open("0.bin", "ab")
 text = open("names.txt", "rt").read()

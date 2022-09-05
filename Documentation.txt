@@ -13,7 +13,7 @@ A vivosaur's element is at 0x01. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water
 
 When it comes to vivosaur chunks, for (almost?) every vivosaur the moves are from 0xBC to 0xC3 for the
 normal four (or three), and 0x4E to 0x4F for the Team Skill. The values are the hex versions of that
-move's line number in names.text, aka their file's number in moveFiles + 1. All values are two bytes here.
+move's line number in names.text, aka their file's number in moveFiles. All values are two bytes here.
 
 Crit rate is always at 0x12, and reduplicated at 0x13 for some reason. Link chance is at 0x14; both
 are out of 100.
@@ -200,7 +200,7 @@ PRIMARY (first two bytes):
 SECONDARY (0x20-0x21):
 01: nothing (everything is 00)
 02: Transformation (bytes after percent are 07 00, extra value is always 01 00, vivosaur IDs start
-at 0x30 and are each one byte. Once again ID = vivoFiles file number + 1. Also 0x28 is the number of
+at 0x30 and are each one byte. Once again ID = vivoFiles file number. Also 0x28 is the number of
 possible vivos to transform into)
 03: All-zone attack (always 0%, bytes after percent are 07 00, no extra value. Can hit your team if
 used with a support effect like Harden, and can actually deal damage unlike with single-targeting.)

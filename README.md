@@ -13,8 +13,8 @@ Prompt and typing the word "python" by itself, then hitting Enter).
 4. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, move names, or vivosaur descriptions. Then grab, in that order:
 etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, text/text_attack_name, or text/text_dino_information.
 
-5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool. Unzip it, and place the file from step 2 in the same folder as fftool.exe.
-Also place the file from this repo named "compress.bat" into that same folder.
+5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 2 in the same folder
+as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.
 
 6. Drag the file from Step 4 onto fftool.exe. This will create a folder named "bin" if one was not there already, and inside that a folder with the same name as your file.
 

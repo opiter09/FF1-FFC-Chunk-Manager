@@ -24,8 +24,8 @@ the folder created in Step 6, i.e. into the folder containing "0.bin."
 8. Run the batch file (or Command-Line the python file if not on Windows) which does NOT have "decomp" in its name. This will create a folder full of little chunks, which are
 appropriately named for easy editing.
 
-9. Edit those to youe heart's content, using my Documentation.txt as a guide. This requires use of a Hex Editor (I use HxD), and some program to convert Hex to Decimal and back (Windows'
-Calculator app has a "programming" mode that can do this).
+9. Edit those to your heart's content, using my Documentation.txt as a guide. This requires use of a Hex Editor (I use HxD, which can be found at https://mh-nexus.de/en/hxd/),
+and some program to convert Hex to Decimal and back (Windows' Calculator app has a "programming" mode that can do this).
 
 10. Now you can run the "decomp"-whatever batch/python. This will seem to do nothing, because it only changes existing files.
 

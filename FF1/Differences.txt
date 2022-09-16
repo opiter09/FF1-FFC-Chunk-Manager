@@ -24,6 +24,8 @@ out:
 - 0x34-0x35: The ID of the first normal skill, which one imagines is used for Link
 - 0x61: Ability Type
 - 0x62: Ability Value (both match up exactly with the original tables, other than most not existing)
+- 0x6C: The multiplier for damage from/to the SZ. Unusually, you have to divide by 100 to get the multiplier,
+  not 10. Thus, for example, the normal value is 0x32 -> 50 -> 0.5
 - 0x8C-0x9B: Normal skill IDs
 - 0x9C-0xAB: 1, 2, 3, 4. Since these are a full four bytes each, I assume this is how many parts you need to
   know each move
@@ -43,8 +45,7 @@ parts requirement for their fourth move (however, the ordering section just has 
 will need to shift back all the offsets accordingly, e.g. the LP data starts at 0xBC.
 
 Due to not being mechanically significant unlike their counterparts in FFC, a vivosaur's Class and Diet are
-not definied within these chunks. Confusingly, whether a vivosaur loses no power when attacking from the SZ is
-seemingly also not defined here.
+not definied within these chunks.
 
 
 Move chunks are also a good bit larger than their FFC counterparts, and things are moved around for no good

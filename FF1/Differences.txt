@@ -1,7 +1,19 @@
 This file attempts to document all differences between FF1 and FFC, so that you don't mess things up by
 strictly following Documentation.txt.
 
+
 The biggest difference, of course, is that all the text of FF1 is smooshed together in the file text/japanese.
 As a result of this, no text chunking is offered for FF1, because chopping and rebuilding that giant file
 would be a *nightmare*. If you don't like that, go code a parser yourself, there's plenty of examples around
 here.
+
+
+For whatever reason, vivosaur chunks have 12 extra bytes of padding at the beginning: two for their ID, then
+literally just ten 00's. Thus a vivosaur's element is now at 0x0D. However, that's not all! Right after the
+element are two bytes that are, for some unknown reason, equal to that vivosaur's Rank 12 LP divided by 2.
+You will want to change these if you go changing a vivosaur's LP amounts. Unfortunately, I cannot just
+say to add 14 to all of the offsets, things are just weird enough that I'm better off just listing everything
+out:
+- 0x0D: Element
+- 0x0E-0x0F: Max LP / 2
+- 0x20-0x21: Crit Rate (1 reduplicated byte)

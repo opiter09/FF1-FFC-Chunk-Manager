@@ -102,8 +102,8 @@ Dinomaton
 Duna
 Raptin
 Dynal
-Frigi
-Igno
+Frigi [OP]
+Igno [OP]
 Squik
 Squirk
 Squirth

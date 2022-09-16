@@ -102,8 +102,8 @@ Dinomaton: 10
 Duna: 20
 Raptin: 20
 Dynal: 10
-Frigi: 0
-Igno: 0
+Frigi [OP]: 0
+Igno [OP]: 0
 Squik: 20
 Squirk: 20
 Squirth: 20

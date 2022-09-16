@@ -21,6 +21,7 @@ out:
 
 Move chunks are also a good bit larger than their FFC counterparts, and things are moved around for no good
 reason. Again, it's easier to just tell you where everything is:
+- 0x1C: Whether a move is counterable (again, 03 if yes, 00 if no)
 - 0x20-0x27: FP, Base Damage, FP, Base Damage (sometimes only one of each)
 - 0x28: Primary Effect
 - 0x29: Primary Percent

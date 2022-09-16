@@ -1,0 +1,7 @@
+This file attempts to document all differences between FF1 and FFC, so that you don't mess things up by
+strictly following Documentation.txt.
+
+The biggest difference, of course, is that all the text of FF1 is smooshed together in the file text/japanese.
+As a result of this, no text chunking is offered for FF1, because chopping and rebuilding that giant file
+would be a *nightmare*. If you don't like that, go code a parser yourself, there's plenty of examples around
+here.

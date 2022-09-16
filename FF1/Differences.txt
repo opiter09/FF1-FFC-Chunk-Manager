@@ -17,3 +17,53 @@ out:
 - 0x0D: Element
 - 0x0E-0x0F: Max LP / 2
 - 0x20-0x21: Crit Rate (1 reduplicated byte)
+
+
+Move chunks are also a good bit larger than their FFC counterparts, and things are moved around for no good
+reason. Again, it's easier to just tell you where everything is:
+- 0x20-0x27: FP, Base Damage, FP, Base Damage (sometimes only one of each)
+- 0x28: Primary Effect
+- 0x29: Primary Percent
+- 0x2A: Primary Turn Count
+- 0x2B: Primary Icon
+- 0x2C: Primary Value 1
+- 0x2D: Primary Value 2
+- 0x30: Secondary Effect
+- 0x31: Secondary Percent
+- 0x32-0x33: Secondary Value (nothing in-between)
+- If this is a transforming move, you then have one byte of "number of vivosaur's you can transform into,"
+ then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one byte each), and then
+some number of 00's
+
+For non-transforming moves that end after 0x3B, things may be shifted around, and not always cleanly. As
+always, vanilla values are all known and can be searched for.
+
+With regards to the effects tables, the secondary effects all line up perfectly. However, as you saw, the
+primary effects seem to work very differently. Here is the table of effects:
+- 01: nothing
+- 02: Poison
+- 03: Sleep
+- 04: Scare
+- 05: Excite
+- 06: Confusion
+- 07: Enrage
+- 08: Counter
+- 09: Enflame
+- 0A: Harden
+- 0B: Quicken
+
+The icons go in order, with Normal Poison being 02, then Gold Poison being 03, then Normal Sleep being
+04, etc. Nothing moves have a turn count of 00, and an icon of 01.
+
+Regarding Primary Values, we have another table, corresponding to the first:
+- Nothing: 01 00
+- Poison: Percent of max LP damaged, then 00
+- Sleep: 00 00
+- Scare: Number of moves made unusable, then 00
+- Excite: 00 00
+- Confusion: 00 00
+- Enrage: Amount Attack is raised, then amount Accuracy is lowered
+- Counter: Percent chance a move will be countered, then 00
+- Enflame: Amount Attack is raised, then amount Defense is lowered
+- Harden: Amount Defense is raised, then 00
+- Quicken: Amount Evasion is raised, then 00

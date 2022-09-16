@@ -67,3 +67,9 @@ Regarding Primary Values, we have another table, corresponding to the first:
 - Enflame: Amount Attack is raised, then amount Defense is lowered
 - Harden: Amount Defense is raised, then 00
 - Quicken: Amount Evasion is raised, then 00
+
+
+Hiding down here again is etc/btl_kp_defs. The file structure is broadly the same, except the level data
+goes from one row's 0x?C to the 0x?4 of the second row after that one, or from a 0x?4 to a 0x?C. That is
+to say, each piece of level data is 23 bytes long. Again, it goes recharge, max, recharge, starting from
+the 13th byte of a level all the way up to the end.

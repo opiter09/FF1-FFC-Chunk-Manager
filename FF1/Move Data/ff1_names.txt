@@ -405,3 +405,4 @@ Tidal Assault
 Subzero Stomp
 Absolute Zero
 Ice Age
+Frozen Armor

@@ -88,7 +88,7 @@ values between are presumably some sort of growth rate indicator.
 means your side, 00 00 00 00 CC 00 00 00 means their side, and all zeroes means the vivosaur has no
 support effects at all. Why CC? The world may never know.
 
-Rank 20 status effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
+Rank 20 support effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
 Vivosaurs with no support effects at all simply have four less bytes in their chunk, and what is here is
 how many moves a vivo has.

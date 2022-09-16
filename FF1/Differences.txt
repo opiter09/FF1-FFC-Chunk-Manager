@@ -16,7 +16,29 @@ say to add 14 to all of the offsets, things are just weird enough that I'm bette
 out:
 - 0x0D: Element
 - 0x0E-0x0F: Max LP / 2
-- 0x20-0x21: Crit Rate (1 reduplicated byte)
+- 0x10-0x1F: Stats, in the usual growth rate, min, max format
+- 0x20-0x21: Crit Rate (still the same byte twice)
+- 0x22: Link Chance
+- 0x24-0x27: Team Compatibility (still in binary, but only the first 16 bytes are used in vanilla)
+- 0x30-0x33: Team Skill ID
+- 0x61: Ability Type
+- 0x62: Ability Value (both match up exactly with the original tables, other than most not existing)
+- 0x8C-0x9B: Normal skill IDs
+- 0x9C-0xAB: 1, 2, 3, 4. Since these are a full four bytes each, I assume this is how many parts you need to
+  know each move
+- 0xAC-0xB3: Support effects. FF1 has a way more logical system, where the first four bytes are for ally AZ,
+  and the second four bytes are for enemy AZ. Again, the stats go in order (Attack, Defense, Accuracy, and
+  Evasion), and large numbers mean they're actually negative (use 256 - it)
+- 0xC0-0xC3: Another set of 1, 2, 3, 4, presumably for the moves' ordering
+- 0xC4-0xD8: The LP of the vivosaur at each of the 12 levels
+
+IMPORTANT: Vivosaurs with three moves (e.g. Zino) are literally missing the four bytes of ID and of
+parts requirement for their fourth move (however, the ordering section just has a 00 there). Thus, you
+will need to shift back all the offsets accordingly, e.g. the LP data starts at 0xBC.
+
+Due to not being mechanically significant unlike their counterparts in FFC, a vivosaur's Class and Diet are
+not definied within these chunks. Confusingly, whether a vivosaur loses no power when attacking from the SZ is
+seemingly also not defined here.
 
 
 Move chunks are also a good bit larger than their FFC counterparts, and things are moved around for no good

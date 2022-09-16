@@ -140,6 +140,7 @@ skip over it):
 30: Group 27
 31: Group 26
 32: Group 25
+[each pre-colon number is in decimal, and is which bit from the left controls that group]
 
 Note: these Groups come from the Wiki. See
 https://fossilfighters.fandom.com/wiki/List_of_Compatible_Vivosaurs for more information.

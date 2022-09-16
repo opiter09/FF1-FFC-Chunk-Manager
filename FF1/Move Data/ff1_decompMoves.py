@@ -23,11 +23,20 @@ for i in range(1, 409):
     binn.write(newOffset.to_bytes(4, "little"))
     binn.close()
 
-binn = open("0.bin", "ab")
-binn.write(section2)
+for i in range(91):
+    previousFile = open("0.bin", "rb")
+    reading = previousFile.read()
+    previousFile.close()
+    newOffset = 32 + int.from_bytes(reading[(1660 + ((i - 1) * 4)):(1664 + ((i - 1) * 4))], "little")
+    binn = open("0.bin", "ab")
+    binn.write(newOffset.to_bytes(4, "little"))
+    binn.close()
 
 binn = open("0.bin", "ab")
-text = open("ff1_names.txt", "rb").read().decode("UTF-8", errors = "ignore")
+binn.write(bytes(8))
+var = 32
+binn.write(var.to_bytes(1, "little"))
+binn.write(bytes(23))
 for i in range(408):
     file = open("moveFiles/" + text.split("\n")[i] + "_" + str(i + 1) + ".bin", "rb")
     binn.write(file.read())

@@ -1,0 +1,408 @@
+Tyrant's Roar
+Scare Tactics
+Frightful Assault
+Tyrant's Breath
+Enflame
+Lethal Jaws
+Burst Breath
+Smash Combo
+Sand Storm
+Harden
+Jaws of Terror
+Fearsome Combo
+Nightmare Combo
+Tarbo Bite
+Cyclone
+Tarbo Combo
+Cyclonic Breath
+Alio Tusk
+Poison Needle
+Poison Breath
+Aqua Cannon
+Siamo Fang
+Sizzling Breath
+Siamo Combo
+Blue Fang
+Alectro Combo
+Long Fangs
+Guanlong Combo
+Guanlong Fury
+Quicken
+Shan Fang
+Shan Combo
+Shan Fury
+Allo Bite
+Allo Combo
+Allo Fury
+Void Blast
+Green Fang
+Metria Combo
+Megalo Bite
+Null Breath
+Megalo Combo
+Venator Bite
+Venator Combo
+Venator Fury
+S-Fang
+S-Combo
+S-Fury
+Giga Bite
+Mighty Stomp
+Cold Shout
+Toxic Ruin
+Cryo Combo
+Frozen Pulse
+Massive Jaws
+Carchar Combo
+Carchar Fury
+Earthen Blast
+Acro Bite
+Acro Combo
+Acro Fury
+Savage Bite
+Savage Combo
+Savage Fury
+Mountainbolt
+Spinax Fang
+Spinax Combo
+Neo Bite
+Neo Combo
+Neo Fury
+Power Scale
+Gravel Breath
+Compso Kick
+Terra Pulse
+生きる力
+Ankle-Biter
+Sopteryx Fire
+Disorienting Kick
+Heat Pulse
+Snapping Bite
+Delta Combo
+Delta Blitz
+Counter Blow
+Fierce Claw
+Fierce Combo
+Tro Toxin
+Nychus Claw
+Nychus Venom
+Nychus Toxin
+M-Claw
+M-Venom
+M-Toxin
+Raptor Claw
+U-Venom
+Raptor Rage
+Veloci-Claw
+Toxic Combo
+Lethal Poison
+Claw Swipe
+Vampiric Rage
+Toxic Assault
+Thieving Talons
+Ancient Power
+Elder Wrath
+Life Drain
+Coelo Fang
+Coelo Combo
+Battle Challenge
+Typhoon
+Life Charge
+Dilopho Fang
+Dilopho Combo
+Dilopho Fury
+Water Arrow
+Spino Blow
+Venomous Combo
+Venomous Barrage
+Angato Bite
+Poison Combo
+Sucho Bite
+Infuriating Combo
+Poison Barrage
+Onyx Bite
+Whiplash
+Cerato Fang
+Cerato Combo
+Carno Fang
+Carno Smash
+Wild Claw
+Crazed Peck
+Manic Spin
+Spinning Rampage
+Snout Strike
+Snout Combo
+Feather Blast
+O-Sonic
+Cleaver
+Slicer
+Frenzy of Destruction
+Mighty Stomp
+Mountain Wave
+Earth Crush
+Voidquake
+Salto Crush
+Salto Combo
+Aftershock
+Shuno Crush
+Epicenter
+Shuno Combo
+Flamequake
+Seismo Stomp
+Tremor Tail
+Continental Drift
+Amargo Stomp
+Blazing Doom
+Amargo Combo
+Spike Tail
+Whirling Dash
+Wind Spines
+Wind Storm
+Fire Spines
+Fire Storm
+Poison Spines
+Ice Storm
+Stone Spines
+Stone Storm
+Nodo Tackle
+Nodo Combo
+Perplex Shot
+Panic Typhoon
+Body Hammer
+Toxic Spear
+Ankylo Combo
+Fire Spear
+Saichan Combo
+Fire Cannon
+Body Axe
+Wind Spear
+Goyle Combo
+Wind Cannon
+Earth Spear
+Pelto Combo
+Earth Cannon
+Leaping Snap
+命のさえずり
+Hypsi Combo
+Nightmare Call
+Nasaur Combo
+Fist Jab
+Fist Flurry
+Igua Combo
+Spirit Calling
+Ourano Combo
+Sliding Ram
+Counting Coup
+Lambeo Combo
+Healing Hand
+Dainty Punch
+Null Song
+Healing Chorus
+Song of Life
+Flailing Blow
+Duck and Cover
+Discord
+Chaos Song
+Dino Uppercut
+Paraloph Rush
+Iron Headbutt
+Iron Ram
+Iron Missile
+Iron Barrage
+Headlong Rush
+Metamorphosis
+Double Rush
+Jagged Thunder
+Tricera Combo
+Triple Threat
+Tri-Torpedo
+Styraco Combo
+Styraco Fury
+Styraco Bomb
+Einio Combo
+Einio Fury
+Centro Combo
+Centro Fury
+Centro Bomb
+Penta Combo
+Penta Fury
+Clear the Path
+Pachrino Combo
+Pachrino Fury
+Mihu Blade
+Mihu Combo
+Mihu Fury
+Diving Thrust
+Great Vortex
+Wing Cutter
+Cyclone Wing
+Blow Away
+Knockout Cry
+Distracting Cry
+Spite Blast
+Rubble Rain
+Fiery Dive
+Ignite Rage
+Krona Bite
+Snapping Jaws
+Whirlpool
+Broadside
+Winding Snap
+Steer the Storm
+Elasmo Tackle
+Elasmo Combo
+Elasmo Fury
+Darting Blur
+Torpedo Attack
+Ramming Horn
+Somnia Beam
+Arsith Combo
+Ruin Beam
+Toxia Beam
+Brontoth Combo
+Ruin Beam
+Phobia Beam
+Elasmoth Combo
+Ruin Beam
+Hoplo Fang
+Hoplo Kick
+Hoplo Fury
+Wildheart
+Dire Fang
+Dire Combo
+Dire Fury
+Wild Fire
+Paki Fang
+Paki Kick
+Paki Combo
+Icy Exhalation
+Trunk Lash
+Mammoth Cannon
+Mammoth Combo
+Glacial Barrage
+Raptor Kick
+Raptor Combo
+Dirt Spray
+Boulder Spray
+Slow Blow
+Slow Combo
+Slow Fury
+Power Dive
+Aqua Blast
+Water Blade
+Maelstrom
+Ancient Waters
+Plesio Poison
+Steel Slash
+Scissor Swipe
+Heartless Fury
+かそくそうちON！
+Death Ray
+Elegant Bite
+Lethal Waltz
+Graceful Rage
+Enchanting Aura
+Sapphire Doom
+Spite Claw
+Ire Combo
+Reaper's Wrath
+Quick Shout
+Positron Beam
+Royal Bite
+Regal Combo
+Imperial Wrath
+Rex Roar
+Antimatter Beam
+Subzero Stomp
+Absolute Zero
+Ice Age
+Frozen Armor
+イテツクりゅうせい
+Burning Bite
+Volcanic Combo
+Inferno Breath
+Roaring Fire
+ボルケーノブレス
+Zero Cloud
+Flaming Torpedo
+Burning Wave
+Blazing Ruin
+Tornado Torpedo
+Mighty Gust
+Aero Annihilation
+Earthen Torpedo
+Stone Collision
+Land Hammer
+Water Torpedo
+Whirlpool Blast
+Ocean's Fist
+Null Torpedo
+Dark Tremor
+Void Storm
+Karmic Aura
+Weeping Slam
+Whirling Displacement
+Tears of Dark Light
+Electric Doom
+Ominous Bite
+Gash Combo
+Cascading Savagery
+Billowing Anger
+Bend Space
+Ignite Anger
+Frenzied Mockery
+Unearthly Armor
+Poisonous Fury
+Venomous Barrage
+Headbutt
+Reaper
+Shockwave
+Waterspout
+Fly Swatter
+Super Enflame
+Super Harden
+Super Quicken
+Great Unmasking
+Sacrifice
+Law of the Jungle
+Razor Claw
+Beak of Fury
+Whirling Doom
+Rock Head
+Rock Shot
+Rock Missile
+Rock Bombing
+Running Smash
+Leaping Gore
+Einio Tornado
+Pachrino Tornado
+Penta Bomb
+Scorch Breath
+Ocean Pulse
+Glacial Rage
+Poisonous Assault
+Smilo Bite
+Smilo Kick
+Smilo Rage
+Fiendish Headbutt
+Fiendish Ram
+Fiendish Missile
+Fiendish Barrage
+Siege Tower
+Awesome Presence
+Culture Shock
+Neutralize
+Healing Song
+Perplexing Chitter
+Toxic Chitter
+Poison Tail
+Poison Spin
+TK Bubble
+Vampiric Strength
+Lantern Blight
+Rattling Sabers
+Tidal Assault
+Subzero Stomp
+Absolute Zero
+Ice Age
+Frozen Armor

@@ -10,8 +10,10 @@ Prompt and typing the word "python" by itself, then hitting Enter).
 
 3. Use Nitro Explorer, Crystal Tile 2, etc. to split apart the ROM.
 
-4. Choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, move names, or vivosaur descriptions. Then grab, in that order:
-etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, text/text_attack_name, or text/text_dino_information.
+4a. For FFC, choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, move names, or vivosaur descriptions. Then grab, in that 
+rder: etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, text/text_attack_name, or text/text_dino_information.
+
+4b. For FF1, choose whether you wish to edit attack data, vivosaur data, or non-dialogue text. Then grab, in that order: etc/attack_defs, etc/creature_defs, or text/japanese.
 
 5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 2 in the same folder
 as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.

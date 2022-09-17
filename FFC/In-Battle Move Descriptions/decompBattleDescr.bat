@@ -1,2 +1,2 @@
 cd ./
-cmd /k python decompBattleDescr.py
+python decompBattleDescr.py

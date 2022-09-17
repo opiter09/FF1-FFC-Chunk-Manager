@@ -1,2 +1,2 @@
 cd ./
-cmd /k python moveNames.py
+python moveNames.py

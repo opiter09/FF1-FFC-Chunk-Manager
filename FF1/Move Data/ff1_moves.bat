@@ -1,2 +1,2 @@
 cd ./
-cmd /k python ff1_moves.py
+python ff1_moves.py

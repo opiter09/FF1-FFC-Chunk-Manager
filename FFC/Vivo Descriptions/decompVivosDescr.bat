@@ -1,2 +1,2 @@
 cd ./
-cmd /k python decompVivosDescr.py
+python decompVivosDescr.py

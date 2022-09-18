@@ -33,8 +33,10 @@ for i in range(12, 15252, 4):
         new = open("textFiles/" + str(count).zfill(4) + "_Unused" + ".bin", "wb")
     elif (count >= 189) and (count < 205):
         new = open("textFiles/" + str(count).zfill(4) + "_MenuText" + ".bin", "wb")
-    elif (count >= 205) and (count < 296):
+    elif (count >= 205) and (count < 275):
         new = open("textFiles/" + str(count).zfill(4) + "_Multiplayer" + ".bin", "wb")
+    elif (count >= 275) and (count < 296):
+        new = open("textFiles/" + str(count).zfill(4) + "_BattlePrep" + ".bin", "wb")
     elif (count >= 296) and (count < 322):
         new = open("textFiles/" + str(count).zfill(4) + "CaseText" + ".bin", "wb")
     elif (count >= 322) and (count < 376):

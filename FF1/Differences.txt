@@ -39,6 +39,17 @@ out:
 - 0xC0-0xC3: Another set of 1, 2, 3, 4, presumably for the moves' ordering
 - 0xC4-0xD8: The LP of the vivosaur at each of the 12 levels
 
+As is tradition for Fossil Fighters, we have way too many other things you need to change to change the
+number of moves a vivosaur has:
+- 0x28: number of moves
+- 0x38: number of moves
+- 0x3C: location of beginning of first 1, 2, 3, 4 (the long one) in the chunk
+- 0x54: location of first ally support effect (A4 for 3-movers, AC for 4-movers)
+- 0x58: location of first enemy support effect
+- 0x68: location of beginning of status chances
+- 0x74: number of moves
+- 0x78: location of second 1, 2, 3, 4 (the short one)
+
 IMPORTANT: Vivosaurs with three moves (e.g. Zino) are literally missing the four bytes of ID and of
 parts requirement for their fourth move (however, the ordering section just has a 00 there). Thus, you
 will need to shift back all the offsets accordingly, e.g. the LP data starts at 0xBC.

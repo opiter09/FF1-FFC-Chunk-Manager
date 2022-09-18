@@ -48,7 +48,7 @@ number of moves a vivosaur has:
 - 0x58: location of first enemy support effect
 - 0x68: location of beginning of status chances
 - 0x74: number of moves
-- 0x78: location of second 1, 2, 3, 4 (the short one)
+- 0x78: location of beginning of second 1, 2, 3, 4 (the short one)
 
 IMPORTANT: Vivosaurs with three moves (e.g. Zino) are literally missing the four bytes of ID and of
 parts requirement for their fourth move (however, the ordering section just has a 00 there). Thus, you

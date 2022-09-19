@@ -54,8 +54,8 @@ IMPORTANT: Vivosaurs with three moves (e.g. Zino) are literally missing the four
 parts requirement for their fourth move (however, the ordering section just has a 00 there). Thus, you
 will need to shift back all the offsets accordingly, e.g. the LP data starts at 0xBC.
 
-Due to not being mechanically significant unlike their counterparts in FFC, a vivosaur's Class and Diet are
-not definied within these chunks.
+Due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and Diet
+are not definied within these chunks.
 
 
 Move chunks are also a good bit larger than their FFC counterparts, and things are moved around for no good
@@ -72,8 +72,8 @@ reason. Again, it's easier to just tell you where everything is:
 - 0x31: Secondary Percent
 - 0x32-0x33: Secondary Value (nothing in-between)
 - If this is a transforming move, you then have one byte of "number of vivosaur's you can transform into,"
- then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one byte each), and then
-some number of 00's
+  then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one byte each), and then
+  some number of 00's
 
 For non-transforming moves that end after 0x3B, things may be shifted around, and not always cleanly. As
 always, vanilla values are all known and can be searched for.

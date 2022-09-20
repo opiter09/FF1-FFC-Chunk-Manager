@@ -20,7 +20,9 @@ out:
 - 0x22: Link Chance
 - 0x24-0x27: Team Compatibility (still in binary, but only the first 16 bytes are used in vanilla)
 - 0x30-0x33: Team Skill ID
-- 0x34-0x35: The ID of the first normal skill, which one imagines is used for Link
+- 0x34-0x35: The skill used for Link. Unlike FFC, a skill the vivosaur has no animation for does not
+  skip the entire attack animation process, but just puts the camera in a wonky spot for a bit and then
+  goes to healthbar dropping
 - 0x61: Ability Type
 - 0x62: Ability Value (both match up exactly with the original tables, other than most not existing)
 - 0x6C: The multiplier for damage from/to the SZ. Unusually, you have to divide by 100 to get the multiplier,

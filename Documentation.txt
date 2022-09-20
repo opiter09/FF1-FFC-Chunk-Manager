@@ -51,8 +51,10 @@ The "Japanese for" effects are, of course, unused, and they also seem to not do 
 anything at all. Some may have only worked on debug builds, while others may only have worked in
 FF1 (looking at you, 09).
 
-0x50-0x51 are always the same value as that vivosaur's first move in vanilla. Thus, one can assume that this
-is the move used for Link.
+0x50-0x51 are always the same value as that vivosaur's first move in vanilla, and has been shown to be the
+move a vivosaur uses with Link. Note that if you set this to a move the vivosaur does not have it may not
+have an animation for it, at which point the game does not freeze or anything, it just skips all the
+attack animation stuff and goes right to the health bar decreasing.
 
 For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
 that another table is in order:

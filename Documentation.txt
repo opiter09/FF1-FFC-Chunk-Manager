@@ -51,6 +51,9 @@ The "Japanese for" effects are, of course, unused, and they also seem to not do 
 anything at all. Some may have only worked on debug builds, while others may only have worked in
 FF1 (looking at you, 09).
 
+0x50-0x51 are always the same value as that vivosaur's first move in vanilla. Thus, one can assume that this
+is the move used for Link.
+
 For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
 that another table is in order:
 nothing: Always 00
@@ -62,7 +65,7 @@ Elemental Boost: Always 00
 Position Lock: Always 00
 FP Absorb: Percent of incoming move's FP cost gained
 Solo Power: Always 00
-Berserker: This is the only ability where 0x56 may be something other than 00, since this is what move
+Berserker: This is the only ability where 0x55 may be something other than 00, since this is what move
 Hopter always uses when woozy. By default, it is E7 01, i.e. Beak Stab.
 Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
 effect table given below.

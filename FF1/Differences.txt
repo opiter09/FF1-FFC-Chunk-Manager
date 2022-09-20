@@ -25,7 +25,7 @@ out:
 - 0x62: Ability Value (both match up exactly with the original tables, other than most not existing)
 - 0x6C: The multiplier for damage from/to the SZ. Unusually, you have to divide by 100 to get the multiplier,
   not 10. Thus, for example, the normal value is 0x32 -> 50 -> 0.5
-- 0x8C-0x9B: Normal skill IDs
+- 0x8C-0x9B: Normal skill IDs (note that they are four bytes each, instead of FFC's two)
 - 0x9C-0xAB: 1, 2, 3, 4. Since these are a full four bytes each, I assume this is how many parts you need to
   know each move
 - 0xAC-0xB3: Support effects. FF1 has a way more logical system, where the first four bytes are for ally AZ,

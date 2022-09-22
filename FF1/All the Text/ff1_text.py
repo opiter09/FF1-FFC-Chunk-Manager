@@ -9,7 +9,7 @@ vivoNames = open("ff1_vivoNamesN.txt", "rt").read()
 file = open("0.bin", "rb")
 reading = file.read()
 
-count = 0
+count = -1
 for i in range(12, 15252, 4):
     oldOffset = int.from_bytes(reading[i:(i + 4)], "little")
     newOffset = int.from_bytes(reading[(i + 4):(i + 8)], "little")

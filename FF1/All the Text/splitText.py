@@ -4,8 +4,8 @@ try:
 except OSError as error:
     pass
 
-moveNames = open("ff1_names.txt", "rb").read().decode("UTF-8", errors = "ignore")
-vivoNames = open("ff1_vivoNamesN.txt", "rt").read()
+moveNames = open("moveNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
+vivoNames = open("vivoNamesN.txt", "rt").read()
 file = open("0.bin", "rb")
 reading = file.read()
 

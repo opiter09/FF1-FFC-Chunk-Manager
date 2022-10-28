@@ -1,6 +1,6 @@
 binn2 = open("0.bin", "rb")
 bytE = binn2.read()
-text = open("ff1_vivoNames.txt", "rt").read()
+text = open("vivoNames.txt", "rt").read()
 
 import os
 try:

@@ -1,0 +1,2 @@
+cd ./
+python mergeMoveNames.py

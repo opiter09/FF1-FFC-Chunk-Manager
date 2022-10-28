@@ -1,5 +1,5 @@
 import os
-text = open("ff1_names.txt", "rb").read().decode("UTF-8", errors = "ignore")
+text = open("moveNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
 
 binn = open("0.bin", "rb")
 section = binn.read(28)

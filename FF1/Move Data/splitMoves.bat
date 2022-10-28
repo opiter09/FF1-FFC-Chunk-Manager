@@ -1,0 +1,2 @@
+cd ./
+python splitMoves.py

@@ -1,6 +1,6 @@
 binn2 = open("0.bin", "rb")
 bytE = binn2.read()
-text = open("names.txt", "rt").read()
+text = open("moveNames.txt", "rt").read()
 
 import os
 try:

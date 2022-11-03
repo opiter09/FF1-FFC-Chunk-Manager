@@ -26,10 +26,12 @@ for i in range(12, 0xFA5, 4):
     elif (count == 904):
         fileName = fileName + "_Gold_Head.bin"
 
-    if (count != 904) and ((count < 700) or (count > 729)):
+    if (count >= 700) and (count <= 729):
+        fileName = fileName + "_Other1.bin"
+    elif (count >= 800) and (count <= 833):
+        fileName = fileName + "_Other2.bin"
+    elif (count != 904):
         fileName = fileName + "_" + parts[whole[beg + 8]] + ".bin"
-    elif (count >= 700) and (count <= 729):
-        fileName = fileName + "_Other.bin"
 
     new = open(fileName, "wb")
     new.write(whole[beg:end])

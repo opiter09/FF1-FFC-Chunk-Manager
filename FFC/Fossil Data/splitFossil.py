@@ -19,7 +19,7 @@ for i in range(12, 0xFA5, 4):
         end = os.stat("0.bin").st_size
 
     fileName = "./kasekiFiles/" + str(count).zfill(4)
-    if (count >= 1) and (count <= 570):
+    if (count >= 1) and (count <= 570) and (whole[beg + 16] != 0):
         fileName = fileName + "_" + text.split("\n")[whole[beg + 16] - 1]
     elif (count == 900) or (count == 901) or (count == 902) or (count == 903):
         fileName = fileName + "_Silver"

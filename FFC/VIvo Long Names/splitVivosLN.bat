@@ -1,0 +1,2 @@
+cd ./
+python splitVivosLN.py

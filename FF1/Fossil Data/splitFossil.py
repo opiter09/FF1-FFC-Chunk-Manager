@@ -11,6 +11,7 @@ file.close()
 
 text = open("vivoNames.txt", "rt").read()
 parts = [ "Head", "Body", "Arms", "Legs", "Other" ]
+chickens = { "425": "Squik", "429": "Squirk", "433": "Squirth", "437": "Squilk", "441": "Squiro" }
 count = -1
 for i in range(12, 0xFA5, 4):
     count = count + 1
@@ -21,6 +22,8 @@ for i in range(12, 0xFA5, 4):
 
     if (count >= 1) and (count <= 400):
         fileName = "./kasekiFiles/" + str(count).zfill(4) + "_" + text.split("\n")[math.floor((count - 1) / 4)] + "_" + parts[(count - 1) % 4] + ".bin"
+    elif (chickens.get(str(count)) != None):
+        fileName = "./kasekiFiles/" + str(count).zfill(4) + "_" + chickens[str(count)] + ".bin"
     else:
         fileName = "./kasekiFiles/" + str(count).zfill(4) + ".bin"
 

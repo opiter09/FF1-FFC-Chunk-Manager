@@ -1,5 +1,5 @@
 # FF1-FFC-Chunk-Editor
-This is code to make editing the files from the NDS Fossil Fighters games (just FFC right now until FF1's text is cracked) relating to vivosaur moves easier.
+This is code to make editing the files from the NDS Fossil Fighters games which have a series of pointers at the beginning easier.
 
 Here is an outline of the process:
 

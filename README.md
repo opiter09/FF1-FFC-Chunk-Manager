@@ -8,12 +8,24 @@ Here is an outline of the process:
 2. Install Python (3+) from https://www.python.org/ (or, if you are on Windows, you can do what I recommend and get it from the Microsoft Store by opening up the Command
 Prompt and typing the word "python" by itself, then hitting Enter).
 
-3. Use Nitro Explorer, Crystal Tile 2, etc. to split apart the ROM.
+3. Use Nitro Explorer, Crystal Tile 2 (https://www.romhacking.net/utilities/818/), etc. to split apart the ROM.
 
-4a. For FFC, choose whether you wish to edit attack data, vivosaur data, VMM move descriptions, battle move descriptions, move names, or vivosaur descriptions. Then grab, in that 
-rder: etc/attack_defs, etc/creature_defs, text/text_attack_information, text/text_attack_info, text/text_attack_name, or text/text_dino_information.
-
-4b. For FF1, choose whether you wish to edit attack data, vivosaur data, or non-dialogue text. Then grab, in that order: etc/attack_defs, etc/creature_defs, or text/japanese.
+4. Choose from among the following files what you wish to edit:
+	- FF1:
+		- text/japanese: basically all of the text in the game
+		- etc/kaseki_defs: data for the individual fossils
+		- etc/creature_defs: data for each vivosaur
+		- etc/attack_defs: data for each move
+	- FFC:
+		- text/text_attack_information: move descriptions in the VMM/formation screens
+		- text/text_attack_info: in-battle move descriptions
+		- text/text_attack_name: names of moves
+		- text/text_dino_information: vivosaur VMM/Formation descriptions
+		- text/text_dino_short_name: normal vivosaur names
+		- text/text_dino_name: vivosaur species names (for the Fossilary)
+		- etc/kaseki_defs: data for the individual fossils
+		- etc/creature_defs: data for each vivosaur
+		- etc/attack_defs: data for each move
 
 5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 2 in the same folder
 as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.

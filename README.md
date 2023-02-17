@@ -55,4 +55,5 @@ gigantic list. Then scroll down to your file.
 12. Left click the file to select it, then right click, press Import, and choose your edited file.
 3. Now save the ROM. CrystalTile2 is weird, so you have to save by trying to quit and then clicking No to cancel. Then quit for real to be done.
 
-Credit to jianminyong for generating the table of attack names (names.txt).
+Credits to jianminyong for generating the very first name table used here, FFC attack names. And also, of course, for working out the compression of this
+game, without which none of this would be possible.

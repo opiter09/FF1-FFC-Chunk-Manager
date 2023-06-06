@@ -48,8 +48,12 @@ that can do this).
 
 12. Insert that new file back into the ROM.
 
+For CrystalTiles 2, split apart the ROM as follows:
+1. Load your ROM into it, go to File -> NDS File System.
+2. In that sub-window, go to File -> Split ROM.
+3. Choose a folder to put the ROM files' folder into. It will be named the internal name of the game (KASEKI or KASEKI2 in this case).
 
-For CrystalTiles 2, insert the file as follows:
+Also for CrystalTiles 2, insert the file as follows:
 1. Load your ROM into it, go to File -> NDS File System. For convenience, click View a list of -> Directory to show files inside folders instead of in one
 gigantic list. Then scroll down to your file.
 12. Left click the file to select it, then right click, press Import, and choose your edited file.

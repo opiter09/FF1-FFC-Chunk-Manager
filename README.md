@@ -27,7 +27,7 @@ Prompt and typing the word "python" by itself, then hitting Enter).
 		- etc/creature_defs: data for each vivosaur
 		- etc/attack_defs: data for each move
 
-5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 2 in the same folder
+5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 4 in the same folder
 as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.
 
 6. Drag the file from Step 4 onto fftool.exe. This will create a folder named "bin" if one was not there already, and inside that a folder with the same name as your file.

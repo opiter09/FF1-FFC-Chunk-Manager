@@ -1,5 +1,5 @@
 import os
-text = open("names.txt", "rt").read()
+text = open("moveNames.txt", "rt").read()
 
 binn = open("0.bin", "rb")
 section = binn.read(24)
@@ -27,7 +27,6 @@ binn = open("0.bin", "ab")
 binn.write(section2[4:28])
 
 binn = open("0.bin", "ab")
-text = open("names.txt", "rt").read()
 for i in range(799):
     binn.write(open("moveFiles/" + text.split("\n")[i] + "_" + str(i + 1) + ".bin", "rb").read())
 binn.write(section3)

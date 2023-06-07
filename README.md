@@ -21,6 +21,7 @@ Prompt and typing the word "python" by itself, then hitting Enter).
 		- text/text_attack_info: in-battle move descriptions
 		- text/text_attack_name: names of moves
 		- text/text_dino_information: vivosaur VMM/Formation descriptions
+		- text/text_dino_kind: vivosaur size and range info
 		- text/text_dino_short_name: normal vivosaur names
 		- text/text_dino_name: vivosaur species names (for the Fossilary)
 		- etc/kaseki_defs: data for the individual fossils

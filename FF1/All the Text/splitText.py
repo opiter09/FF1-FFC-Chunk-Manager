@@ -6,6 +6,8 @@ except OSError as error:
 
 moveNames = open("moveNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
 vivoNames = open("vivoNamesN.txt", "rt").read()
+enemyNames = open("enemyNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
+
 file = open("0.bin", "rb")
 reading = file.read()
 
@@ -84,7 +86,7 @@ for i in range(12, 15252, 4):
     elif (count >= 3325) and (count < 3363):
         new = open("textFiles/" + str(count - 1).zfill(4) + "_MaskNames" + ".bin", "wb")
     elif (count >= 3363) and (count < 3624):
-        new = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames" + ".bin", "wb")
+        new = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames_" + enemyNames.split("\n")[count - 3363] + ".bin", "wb")
     elif (count >= 3624) and (count < 3676):
         new = open("textFiles/" + str(count - 1).zfill(4) + "_Unused" + ".bin", "wb")
     elif (count >= 3676) and (count < 3686):

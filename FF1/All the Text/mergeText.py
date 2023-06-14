@@ -16,6 +16,7 @@ new = open("0.bin", "ab")
 
 moveNames = open("moveNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
 vivoNames = open("vivoNamesN.txt", "rt").read()
+enemyNames = open("enemyNames.txt", "rb").read().decode("UTF-8", errors = "ignore")
 
 size = int.from_bytes(header[12:16], "little")
 count = 0
@@ -88,7 +89,7 @@ for i in range(12, 15248, 4):
     elif (count >= 3325) and (count < 3363):
         small = open("textFiles/" + str(count - 1).zfill(4) + "_MaskNames" + ".bin", "rb")
     elif (count >= 3363) and (count < 3624):
-        small = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames" + ".bin", "rb")
+        small = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames_" + enemyNames.split("\n")[count - 3363] + ".bin", "rb")
     elif (count >= 3624) and (count < 3676):
         small = open("textFiles/" + str(count - 1).zfill(4) + "_Unused" + ".bin", "rb")
     elif (count >= 3676) and (count < 3686):
@@ -172,7 +173,7 @@ for i in range(12, 15252, 4):
     elif (count >= 3325) and (count < 3363):
         small = open("textFiles/" + str(count - 1).zfill(4) + "_MaskNames" + ".bin", "rb")
     elif (count >= 3363) and (count < 3624):
-        small = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames" + ".bin", "rb")
+        small = open("textFiles/" + str(count - 1).zfill(4) + "_EnemyFighterNames_" + enemyNames.split("\n")[count - 3363] + ".bin", "rb")
     elif (count >= 3624) and (count < 3676):
         small = open("textFiles/" + str(count - 1).zfill(4) + "_Unused" + ".bin", "rb")
     elif (count >= 3676) and (count < 3686):

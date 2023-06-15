@@ -1,6 +1,5 @@
 binn2 = open("0.bin", "rb")
 bytE = binn2.read()
-text = open("actionNames.txt", "rt").read()
 
 import os
 try:
@@ -14,7 +13,7 @@ for i in range(141):
     if (i == 140):
         newOffset = (os.stat("0.bin").st_size).to_bytes(4, "little")
     
-    newFile = open("actionFiles/" + str(i + 1).zfill(3) + "_" + text.split("\n")[i] + ".bin", "wb")
+    newFile = open("actionFiles/" + str(i + 1).zfill(4) + ".bin", "wb")
     newFile.write(bytE[int.from_bytes(oldOffset, "little"):int.from_bytes(newOffset, "little")])
     newFile.close()
 

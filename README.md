@@ -25,6 +25,7 @@ Prompt and typing the word "python" by itself, then hitting Enter).
 		- text/text_dino_short_name: normal vivosaur names
 		- text/text_dino_name: vivosaur species names (for the Fossilary)
 		- text/text_battle_enemy_name: names of enemy fighters in battle
+		- text/text_action_info: pop-up messages shown during battle
 		- etc/kaseki_defs: data for the individual fossils
 		- etc/creature_defs: data for each vivosaur
 		- etc/attack_defs: data for each move

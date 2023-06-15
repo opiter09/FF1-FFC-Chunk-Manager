@@ -1,5 +1,5 @@
 import os
-text = open("names.txt", "rt").read()
+text = open("moveNames.txt", "rt").read()
 
 binn = open("0.bin", "rb")
 section = binn.read(16)

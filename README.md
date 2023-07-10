@@ -1,4 +1,4 @@
-# FF1-FFC-Chunk-Editor
+# FF1-FFC-Chunk-Manager
 This is code to make editing the files from the NDS Fossil Fighters games which have a series of pointers at the beginning easier.
 
 Here is an outline of the process:

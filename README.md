@@ -57,9 +57,10 @@ For CrystalTiles 2, split apart the ROM as follows:
 Also for CrystalTiles 2, insert the file as follows:
 1. Load your ROM into it, then go to Tools -> NDS File System.
 2. For convenience, click View a list of -> Directory to show files inside folders instead of in one gigantic list.
-3. Scroll to your file, left click to select it, and then right click, press Import, and choose your edited file.
+3. Scroll to your file, left click to select it, and then right click, press Import, and choose your edited file. Once that is done, quit out
+of the sub-menu.
 4. Now save the ROM. CrystalTile2 is weird, so if the Save option in the File menu is greyed-out, you will have to save by trying to quit
-and clicking No to cancel, then quitting for real.
+and clicking No to cancel, then quitting for real (which entails clicking Yes twice).
 
 Credits to jianminyong for generating the very first name table used here, FFC attack names. And also, of course, for working out the compression of this
 game, without which none of this would be possible.

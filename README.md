@@ -33,8 +33,8 @@ as fftool.exe. Also place the file from this repo named "compress.bat" into that
 
 6. Drag the file from Step 4 onto fftool.exe. This will create a folder named "bin" if one was not there already, and inside that a folder with the same name as your file.
 
-7. Select from among the folders in this repository the one that corresponds to your file; the names should be self-explanatory. Move the contents of that folder to the folder within
-the folder created in Step 6, i.e. into the folder containing "0.bin."
+7. Select from among the folders in this repository the one with the same name as your file. Move the contents of that folder to the folder within the folder created in Step 6, i.e.
+into the folder containing "0.bin."
 
 8. Run the batch file (or Command-Line the python file if not on Windows) with "split" in its name. This will create a folder full of little chunks, which are
 appropriately named for easy editing.

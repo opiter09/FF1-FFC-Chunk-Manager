@@ -5,8 +5,7 @@ Here is an outline of the process:
 
 1. Download this repo itself. Github is a little weird about that, you have to click the green "Code" button and then click "Download Zip."
 
-2. Install Python (3+) from https://www.python.org/ (or, if you are on Windows, you can do what I recommend and get it from the Microsoft Store by opening up the Command
-Prompt and typing the word "python" by itself, then hitting Enter).
+2. Install Python (3+) from https://www.python.org/downloads (or, if you are on Windows, you can do what I recommend and get it from the Microsoft Store).
 
 3. Use Nitro Explorer, Crystal Tile 2 (https://www.romhacking.net/utilities/818/), etc. to split apart the ROM.
 

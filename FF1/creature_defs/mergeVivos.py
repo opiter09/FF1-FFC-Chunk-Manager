@@ -12,7 +12,7 @@ binn.write(section)
 binn.close()
 
 binn = open("0.bin", "ab")
-text = open("ff1_vivoNames.txt", "rt").read()
+text = open("vivoNames.txt", "rt").read()
 offset = int.from_bytes(whole[48:52], "little")
 for i in range(115):
     offset = offset + os.stat("vivoFiles/" + text.split("\n")[i] + "_" + str(i + 1) + ".bin").st_size

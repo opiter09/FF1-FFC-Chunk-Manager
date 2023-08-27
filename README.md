@@ -11,11 +11,13 @@ Here is an outline of the process:
 
 4. Choose from among the following files what you wish to edit:
 	- FF1:
+		- episode/eXXXX: files for the various scripted events that occur in the game
 		- text/japanese: basically all of the text in the game
 		- etc/kaseki_defs: data for the individual fossils
 		- etc/creature_defs: data for each vivosaur
 		- etc/attack_defs: data for each move
 	- FFC:
+		- episode/eXXXX: files for the various scripted events that occur in the game
 		- text/text_attack_information: move descriptions in the VMM/formation screens
 		- text/text_attack_info: in-battle move descriptions
 		- text/text_attack_name: names of moves

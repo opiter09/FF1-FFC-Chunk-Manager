@@ -1,0 +1,60 @@
+0501: Small Pearl
+0502: Small Pearl
+0503: Small Pearl
+0504: Emerald
+0505: Emerald
+0506: Emerald
+0507: Diamond
+0508: Diamond
+0509: Diamond
+0510: Double Pearl
+0511: Double Pearl
+0512: Double Pearl
+0513: Sapphire
+0514: Sapphire
+0515: Sapphire
+0516: Double Diamond
+0517: Double Diamond
+0518: Double Diamond
+0519: Giant Pearl
+0520: Giant Pearl
+0521: Giant Pearl
+0522: Ruby
+0523: Ruby
+0524: Ruby
+0525: Quad Diamond
+0526: Quad Diamond
+0527: Quad Diamond
+0528: Colossal Diamond
+0529: Colossal Diamond
+0530: Colossal Diamond
+0601: Giant Dropping
+0602: Giant Dropping
+0603: Giant Dropping
+0604: Double Giant Dropping
+0605: Double Giant Dropping
+0606: Double Giant Dropping
+0607: Center Dropping
+0608: Center Dropping
+0609: Center Dropping
+0610: Bottom-Right Dropping
+0611: Bottom-Right Dropping
+0612: Bottom-Right Dropping
+0613: Top-Right Dropping
+0614: Top-Right Dropping
+0615: Top-Right Dropping
+0616: Bottom-Left Dropping
+0617: Bottom-Left Dropping
+0618: Bottom-Left Dropping
+0619: Top-Left Dropping
+0620: Top-Left Dropping
+0621: Top-Left Dropping
+0622: Triangle Dropping
+0623: Triangle Dropping
+0624: Triangle Dropping
+0625: Triple Dropping
+0626: Triple Dropping
+0627: Triple Dropping
+0628: Double Dropping
+0629: Double Dropping
+0630: Double Dropping

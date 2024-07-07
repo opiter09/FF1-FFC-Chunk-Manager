@@ -1,0 +1,64 @@
+0700: Small Pearl
+0701: Small Pearl
+0702: Small Pearl
+0703: Emerald
+0704: Emerald
+0705: Emerald
+0706: Diamond
+0707: Diamond
+0708: Diamond
+0709: Double Pearl
+0710: Double Pearl
+0711: Double Pearl
+0712: Sapphire
+0713: Sapphire
+0714: Sapphire
+0715: Double Diamond
+0716: Double Diamond
+0717: Double Diamond
+0718: Giant Pearl
+0719: Giant Pearl
+0720: Giant Pearl
+0721: Ruby
+0722: Ruby
+0723: Ruby
+0724: Quad Diamond
+0725: Quad Diamond
+0726: Quad Diamond
+0727: Colossal Diamond
+0728: Colossal Diamond
+0729: Colossal Diamond
+0800: Giant Dropping
+0801: Giant Dropping
+0802: Giant Dropping
+0803: Double Giant Dropping
+0804: Double Giant Dropping
+0805: Double Giant Dropping
+0806: Center Dropping
+0807: Center Dropping
+0808: Center Dropping
+0809: Bottom-Right Dropping
+0810: Bottom-Right Dropping
+0811: Bottom-Right Dropping
+0812: Top-Right Dropping
+0813: Top-Right Dropping
+0814: Top-Right Dropping
+0815: Bottom-Left Dropping
+0816: Bottom-Left Dropping
+0817: Bottom-Left Dropping
+0818: Top-Left Dropping
+0819: Top-Left Dropping
+0820: Top-Left Dropping
+0821: Triangle Dropping
+0822: Triangle Dropping
+0823: Triangle Dropping
+0824: Triple Dropping
+0825: Triple Dropping
+0826: Triple Dropping
+0827: Double Dropping
+0828: Double Dropping
+0829: Double Dropping
+0830: Quad Dropping
+0831: Pair Dropping
+0832: Weird Giant Dropping 1
+0833: Weird Giant Dropping 2

@@ -9,7 +9,13 @@ whole = file.read()
 file.close()
 
 text = open("vivoNames.txt", "rt").read()
-parts = [ "Unused", "Head", "Body", "Arms", "Legs", "Single" ]
+parts = [ "Other", "Head", "Body", "Arms", "Legs", "Single" ]
+
+text2 = list(open("jewelNames.txt", "rt").read().split("\n"))
+text2D = {}
+for i in range(len(text2)):
+    text2D[int(text2[i].split(": ")[0])] = text2[i].split(": ")[1]
+
 count = -1
 for i in range(12, 0xFA5, 4):
     count = count + 1
@@ -25,12 +31,10 @@ for i in range(12, 0xFA5, 4):
         fileName = fileName + "_Silver"
     elif (count == 904):
         fileName = fileName + "_Gold_Head.bin"
-
-    if (count >= 700) and (count <= 729):
-        fileName = fileName + "_Other1.bin"
-    elif (count >= 800) and (count <= 833):
-        fileName = fileName + "_Other2.bin"
-    elif (count != 904):
+    elif (count in text2D.keys()):
+        fileName = "./kasekiFiles/" + str(count).zfill(4) + "_" + text2D[count] + ".bin"
+    
+    if (count != 904) and (count not in text2D.keys()):
         fileName = fileName + "_" + parts[whole[beg + 8]] + ".bin"
 
     new = open(fileName, "wb")

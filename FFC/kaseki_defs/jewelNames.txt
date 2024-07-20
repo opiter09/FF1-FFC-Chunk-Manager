@@ -62,3 +62,7 @@
 0831: Pair Dropping
 0832: Weird Giant Dropping 1
 0833: Weird Giant Dropping 2
+0995: [Starter] Head
+0996: [Starter] Body
+0997: [Starter] Arms
+0998: [Starter] Legs

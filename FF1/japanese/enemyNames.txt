@@ -1,6 +1,6 @@
 プレイヤーのサンプル名
 【debug】敵のサンプル名
-test 
+test
 【unused】チュートル
 Tipper
 Holt

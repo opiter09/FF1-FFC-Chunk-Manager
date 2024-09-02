@@ -12,23 +12,24 @@ Here is an outline of the process:
 4. Choose from among the following files what you wish to edit:
 	- FF1:
 		- episode/eXXXX: files for the various scripted events that occur in the game
-		- text/japanese: basically all of the text in the game
-		- etc/kaseki_defs: data for the individual fossils
 		- etc/creature_defs: data for each vivosaur
-		- etc/attack_defs: data for each move
+		- etc/kaseki_defs: data for the individual fossils
+		- text/japanese: basically all of the text in the game
+		
 	- FFC:
 		- episode/eXXXX: files for the various scripted events that occur in the game
-		- text/text_attack_information: move descriptions in the VMM/formation screens
+		- etc/attack_defs: data for each move
+		- etc/creature_defs: data for each vivosaur
+		- etc/kaseki_defs: data for the individual fossils
+		- etc/state_effect_defs: data for the status effects
 		- text/text_attack_info: in-battle move descriptions
+		- text/text_attack_information: move descriptions in the VMM/formation screens
 		- text/text_attack_name: names of moves
+		- text/text_battle_enemy_name: names of enemy fighters in battle
 		- text/text_dino_information: vivosaur VMM/Formation descriptions
 		- text/text_dino_kind: vivosaur size and range info
-		- text/text_dino_short_name: normal vivosaur names
 		- text/text_dino_name: vivosaur species names (for the Fossilary)
-		- text/text_battle_enemy_name: names of enemy fighters in battle
-		- etc/kaseki_defs: data for the individual fossils
-		- etc/creature_defs: data for each vivosaur
-		- etc/attack_defs: data for each move
+		- text/text_dino_short_name: normal vivosaur names
 
 5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 4 in the same folder
 as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.

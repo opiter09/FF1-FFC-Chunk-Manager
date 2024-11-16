@@ -3,7 +3,7 @@ This is code to make editing the files from the NDS Fossil Fighters games which 
 
 Here is an outline of the process:
 
-1. Download this repo itself. Github is a little weird about that, you have to click the green "Code" button and then click "Download Zip."
+1. Download this repo itself. Github is a little weird about that, you have to click the green "Code" button and then click "Download Zip".
 
 2. Install Python (3+) from https://www.python.org/downloads. If you are on Windows, you should get it from the Microsoft Store instead, to prevent problems where it can't find Python.
 

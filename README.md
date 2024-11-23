@@ -30,6 +30,7 @@ Here is an outline of the process:
 		- text/text_dino_kind: vivosaur size and range info
 		- text/text_dino_name: vivosaur species names (for the Fossilary)
 		- text/text_dino_short_name: normal vivosaur names
+		- text/text_museum: vivosaur Fossilary entries
 
 5. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it, and place the file from step 4 in the same folder
 as fftool.exe. Also place the file from this repo named "compress.bat" into that same folder.
@@ -70,4 +71,6 @@ Credits to jianminyong for generating the very first name table used here, FFC a
 game, without which none of this would be possible.
 
 PS: When it comes to text, you're honestly better just using Carbonizer (https://github.com/simonomi/carbonizer) for that these days. The text splitters will remain up here,
-however, both for historical purposes, and in case you need them to figure out which messages refer to what.
+however, both for historical purposes, and in case you need them to figure out which messages refer to what. If you are planning on editing text here though, please remember
+not to mess with the 0x00's at the end unless you are getting weird text in-game, in which case you should try to add or remove 0x00's at the end such that the last byte of the
+chunk is in column 03, 07, 0B, or 0F.

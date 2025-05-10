@@ -40,9 +40,9 @@ Here is an outline of the process:
 		- text/text_dino_short_name: normal vivosaur names
 		- text/text_museum: vivosaur Fossilary entries
 		
-	Note: FF1's text/japanese, FFC's text/text_attack_name, and possibly others have the special property that the lengths of
-	their chunks must all be multiples of 4; if this applies, please add/remove 00's at the end as needed. Furthermore, if the
-	text would be a multiple of 4 by itself in this case, include 4 00's at the end instead of none.
+	Note: FF1's text/japanese, and possibly other files, has the special property that the lengths of its chunks must all be
+	multiples of 4. If this condition applies, please add/remove 00's at the end as needed. Furthermore, if the text would be a
+	multiple of 4 by itself in such a case, include 4 00's at the end instead of none.
 
 05. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it,
    and place the file from step 4 in the same folder as "fftool.exe". Also place the file from this repo named "compress.bat"

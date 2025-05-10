@@ -22,9 +22,7 @@ Here is an outline of the process:
 		- episode/eXXXX: files for the various scripted events that occur in the game
 		- etc/creature_defs: data for each vivosaur
 		- etc/kaseki_defs: data for the individual fossils
-		- text/japanese: basically all of the non-dialogue text in the game (Note: This file has the special property that the
-		  lengths of its chunks must all be multiples of 4, so please add/remove 00's at the end as needed. If the text would
-		  be a multiple of 4 by itself, include 4 00's at the end instead of none)
+		- text/japanese: basically all of the non-dialogue text in the game
 		
 	- FFC:
 		- episode/eXXXX: files for the various scripted events that occur in the game
@@ -41,6 +39,10 @@ Here is an outline of the process:
 		- text/text_dino_name: vivosaur species names (for the Fossilary)
 		- text/text_dino_short_name: normal vivosaur names
 		- text/text_museum: vivosaur Fossilary entries
+		
+	Note: FF1's text/japanese, FFC's text/text_attack_name, and possibly others have the special property that the lengths of
+	their chunks must all be multiples of 4; if this applies, please add/remove 00's at the end as needed. Furthermore, if the
+	text would be a multiple of 4 by itself in this case, include 4 00's at the end instead of none.
 
 05. Download Fossil Fighters Tool, which can be found at https://github.com/jianmingyong/Fossil-Fighters-Tool/releases. Unzip it,
    and place the file from step 4 in the same folder as "fftool.exe". Also place the file from this repo named "compress.bat"

@@ -59,6 +59,10 @@ Here is an outline of the process:
    be found at https://mh-nexus.de/en/hxd/), and some program to convert Hex to Decimal and back (Windows' Calculator app has a
    "programming" mode that can do this).
 
+09. If you want to add a new chunk, you can simply create a new file in the folder, with the three digits of placement (generally
+    right after the other ones), then an underscore, then literally anything, and then the ".bin" extension. Similarly, you can
+	just remove files to delete them (you don't even have to rename anything since the code only cares about name order).
+
 09. Now you can run "chunk.exe" again. This will seem to do nothing, because it only changes existing files.
 
 10. Go back out a few folders to where "fftool.exe" is. Now drag your Step 2 file onto "compress.bat". This will create a new

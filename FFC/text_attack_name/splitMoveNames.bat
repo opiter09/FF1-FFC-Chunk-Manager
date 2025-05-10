@@ -1,2 +1,0 @@
-cd ./
-python splitMoveNames.py

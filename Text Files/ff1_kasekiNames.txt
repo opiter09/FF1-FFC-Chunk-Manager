@@ -1,0 +1,999 @@
+Other
+T-Rex Head
+T-Rex Body
+T-Rex Arms
+T-Rex Legs
+Daspleto Head
+Daspleto Body
+Daspleto Arms
+Daspleto Legs
+Gorgo Head
+Gorgo Body
+Gorgo Arms
+Gorgo Legs
+Tarbo Head
+Tarbo Body
+Tarbo Arms
+Tarbo Legs
+Alio Head
+Alio Body
+Alio Arms
+Alio Legs
+Siamo Head
+Siamo Body
+Siamo Arms
+Siamo Legs
+Alectro Head
+Alectro Body
+Alectro Arms
+Alectro Legs
+Guan Head
+Guan Body
+Guan Arms
+Guan Legs
+Shanshan Head
+Shanshan Body
+Shanshan Arms
+Shanshan Legs
+Allo Head
+Allo Body
+Allo Arms
+Allo Legs
+Metria Head
+Metria Body
+Metria Arms
+Metria Legs
+Megalo Head
+Megalo Body
+Megalo Arms
+Megalo Legs
+Venator Head
+Venator Body
+Venator Arms
+Venator Legs
+S-Raptor Head
+S-Raptor Body
+S-Raptor Arms
+S-Raptor Legs
+Giganto Head
+Giganto Body
+Giganto Arms
+Giganto Legs
+Cryo Head
+Cryo Body
+Cryo Arms
+Cryo Legs
+Carchar Head
+Carchar Body
+Carchar Arms
+Carchar Legs
+Acro Head
+Acro Body
+Acro Arms
+Acro Legs
+F-Raptor Head
+F-Raptor Body
+F-Raptor Arms
+F-Raptor Legs
+Spinax Head
+Spinax Body
+Spinax Arms
+Spinax Legs
+Neo Head
+Neo Body
+Neo Arms
+Neo Legs
+Compso Head
+Compso Body
+Compso Arms
+Compso Legs
+Sopteryx Head
+Sopteryx Body
+Sopteryx Arms
+Sopteryx Legs
+Delta Head
+Delta Body
+Delta Arms
+Delta Legs
+Tro Head
+Tro Body
+Tro Arms
+Tro Legs
+Nychus Head
+Nychus Body
+Nychus Arms
+Nychus Legs
+M-Raptor Head
+M-Raptor Body
+M-Raptor Arms
+M-Raptor Legs
+U-Raptor Head
+U-Raptor Body
+U-Raptor Arms
+U-Raptor Legs
+V-Raptor Head
+V-Raptor Body
+V-Raptor Arms
+V-Raptor Legs
+Breme Head
+Breme Body
+Breme Arms
+Breme Legs
+Aopteryx Head
+Aopteryx Body
+Aopteryx Arms
+Aopteryx Legs
+Coelo Head
+Coelo Body
+Coelo Arms
+Coelo Legs
+Dilopho Head
+Dilopho Body
+Dilopho Arms
+Dilopho Legs
+Spino Head
+Spino Body
+Spino Arms
+Spino Legs
+Angato Head
+Angato Body
+Angato Arms
+Angato Legs
+Sucho Head
+Sucho Body
+Sucho Arms
+Sucho Legs
+Onyx Head
+Onyx Body
+Onyx Arms
+Onyx Legs
+Cerato Head
+Cerato Body
+Cerato Arms
+Cerato Legs
+Carno Head
+Carno Body
+Carno Arms
+Carno Legs
+Orno Head
+Orno Body
+Orno Arms
+Orno Legs
+Cheirus Head
+Cheirus Body
+Cheirus Arms
+Cheirus Legs
+O-Raptor Head
+O-Raptor Body
+O-Raptor Arms
+O-Raptor Legs
+Zino Head
+Zino Body
+Zino Arms
+Zino Legs
+Brachio Head
+Brachio Body
+Brachio Arms
+Brachio Legs
+Salto Head
+Salto Body
+Salto Arms
+Salto Legs
+Shuno Head
+Shuno Body
+Shuno Arms
+Shuno Legs
+Perso Head
+Perso Body
+Perso Arms
+Perso Legs
+Seismo Head
+Seismo Body
+Seismo Arms
+Seismo Legs
+Apato Head
+Apato Body
+Apato Arms
+Apato Legs
+Amargo Head
+Amargo Body
+Amargo Arms
+Amargo Legs
+Stego Head
+Stego Body
+Stego Arms
+Stego Legs
+Yango Head
+Yango Body
+Yango Arms
+Yango Legs
+Jiango Head
+Jiango Body
+Jiango Arms
+Jiango Legs
+Kentro Head
+Kentro Body
+Kentro Arms
+Kentro Legs
+Lexo Head
+Lexo Body
+Lexo Arms
+Lexo Legs
+Nodo Head
+Nodo Body
+Nodo Arms
+Nodo Legs
+Ankylo Head
+Ankylo Body
+Ankylo Arms
+Ankylo Legs
+Saichan Head
+Saichan Body
+Saichan Arms
+Saichan Legs
+Goyle Head
+Goyle Body
+Goyle Arms
+Goyle Legs
+Pelto Head
+Pelto Body
+Pelto Arms
+Pelto Legs
+Hypsi Head
+Hypsi Body
+Hypsi Arms
+Hypsi Legs
+Nasaur Head
+Nasaur Body
+Nasaur Arms
+Nasaur Legs
+Igua Head
+Igua Body
+Igua Arms
+Igua Legs
+Ourano Head
+Ourano Body
+Ourano Arms
+Ourano Legs
+Lambeo Head
+Lambeo Body
+Lambeo Arms
+Lambeo Legs
+Maia Head
+Maia Body
+Maia Arms
+Maia Legs
+Anato Head
+Anato Body
+Anato Arms
+Anato Legs
+Paraloph Head
+Paraloph Body
+Paraloph Arms
+Paraloph Legs
+Pachy Head
+Pachy Body
+Pachy Arms
+Pachy Legs
+Stygi Head
+Stygi Body
+Stygi Arms
+Stygi Legs
+Goyo Head
+Goyo Body
+Goyo Arms
+Goyo Legs
+Proto Head
+Proto Body
+Proto Arms
+Proto Legs
+Tricera Head
+Tricera Body
+Tricera Arms
+Tricera Legs
+Styraco Head
+Styraco Body
+Styraco Arms
+Styraco Legs
+Einio Head
+Einio Body
+Einio Arms
+Einio Legs
+Centro Head
+Centro Body
+Centro Arms
+Centro Legs
+Penta Head
+Penta Body
+Penta Arms
+Penta Legs
+Pachrino Head
+Pachrino Body
+Pachrino Arms
+Pachrino Legs
+Mihu Head
+Mihu Body
+Mihu Arms
+Mihu Legs
+Ptera Head
+Ptera Body
+Ptera Arms
+Ptera Legs
+Coatlus Head
+Coatlus Body
+Coatlus Arms
+Coatlus Legs
+Jara Head
+Jara Body
+Jara Arms
+Jara Legs
+Dimorph Head
+Dimorph Body
+Dimorph Arms
+Dimorph Legs
+Guera Head
+Guera Body
+Guera Arms
+Guera Legs
+Krona Head
+Krona Body
+Krona Arms
+Krona Legs
+Futabi Head
+Futabi Body
+Futabi Arms
+Futabi Legs
+Elasmo Head
+Elasmo Body
+Elasmo Arms
+Elasmo Legs
+Plesio Head
+Plesio Body
+Plesio Arms
+Plesio Legs
+Shoni Head
+Shoni Body
+Shoni Arms
+Shoni Legs
+Arsith Head
+Arsith Body
+Arsith Arms
+Arsith Legs
+Brontoth Head
+Brontoth Body
+Brontoth Arms
+Brontoth Legs
+Elasmoth Head
+Elasmoth Body
+Elasmoth Arms
+Elasmoth Legs
+Hoplo Head
+Hoplo Body
+Hoplo Arms
+Hoplo Legs
+Andrarch Head
+Andrarch Body
+Andrarch Arms
+Andrarch Legs
+Paki Head
+Paki Body
+Paki Arms
+Paki Legs
+Smilo Head
+Smilo Body
+Smilo Arms
+Smilo Legs
+Mammoth Head
+Mammoth Body
+Mammoth Arms
+Mammoth Legs
+Tryma Head
+Tryma Body
+Tryma Arms
+Tryma Legs
+Megath Head
+Megath Body
+Megath Arms
+Megath Legs
+Chelon Head
+Chelon Body
+Chelon Arms
+Chelon Legs
+Dinomaton Head
+Dinomaton Body
+Dinomaton Arms
+Dinomaton Legs
+Duna Head
+Duna Body
+Duna Arms
+Duna Legs
+Raptin Head
+Raptin Body
+Raptin Arms
+Raptin Legs
+Dynal Head
+Dynal Body
+Dynal Arms
+Dynal Legs
+Frigi [OP] Head
+Frigi [OP] Body
+Frigi [OP] Arms
+Frigi [OP] Legs
+Igno [OP] Head
+Igno [OP] Body
+Igno [OP] Arms
+Igno [OP] Legs
+Squik Head
+Squik Body
+Squik Arms
+Squik Legs
+Squirk Head
+Squirk Body
+Squirk Arms
+Squirk Legs
+Squirth Head
+Squirth Body
+Squirth Arms
+Squirth Legs
+Squilk Head
+Squilk Body
+Squilk Arms
+Squilk Legs
+Squiro Head
+Squiro Body
+Squiro Arms
+Squiro Legs
+Guhweep Head
+Guhweep Body
+Guhweep Arms
+Guhweep Legs
+Guhvorn Head
+Guhvorn Body
+Guhvorn Arms
+Guhvorn Legs
+Guhlith Head
+Guhlith Body
+Guhlith Arms
+Guhlith Legs
+Frigi Head
+Frigi Body
+Frigi Arms
+Frigi Legs
+Igno Head
+Igno Body
+Igno Arms
+Igno Legs
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Small Pearl
+Small Pearl
+Small Pearl
+Emerald
+Emerald
+Emerald
+Diamond
+Diamond
+Diamond
+Double Pearl
+Double Pearl
+Double Pearl
+Sapphire
+Sapphire
+Sapphire
+Double Diamond
+Double Diamond
+Double Diamond
+Giant Pearl
+Giant Pearl
+Giant Pearl
+Ruby
+Ruby
+Ruby
+Quad Diamond
+Quad Diamond
+Quad Diamond
+Colossal Diamond
+Colossal Diamond
+Colossal Diamond
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Giant Dropping
+Giant Dropping
+Giant Dropping
+Double Giant Dropping
+Double Giant Dropping
+Double Giant Dropping
+Center Dropping
+Center Dropping
+Center Dropping
+Bottom-Right Dropping
+Bottom-Right Dropping
+Bottom-Right Dropping
+Top-Right Dropping
+Top-Right Dropping
+Top-Right Dropping
+Bottom-Left Dropping
+Bottom-Left Dropping
+Bottom-Left Dropping
+Top-Left Dropping
+Top-Left Dropping
+Top-Left Dropping
+Triangle Dropping
+Triangle Dropping
+Triangle Dropping
+Triple Dropping
+Triple Dropping
+Triple Dropping
+Double Dropping
+Double Dropping
+Double Dropping
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other

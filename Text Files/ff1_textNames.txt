@@ -1,0 +1,3810 @@
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+HelpText
+SaveMessage
+SaveMessage
+SaveMessage
+SaveMessage
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+DigsiteDescr
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+BattleMenu
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+MenuText
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+BattlePrep
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+CaseText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+VMMText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+RockText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+MuseumText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+CannonText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+MenuHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+BattleHelpText
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+BattleMessages
+VivoLongNames_T-Rex
+VivoLongNames_Daspleto
+VivoLongNames_Gorgo
+VivoLongNames_Tarbo
+VivoLongNames_Alio
+VivoLongNames_Siamo
+VivoLongNames_Alectro
+VivoLongNames_Guan
+VivoLongNames_Shanshan
+VivoLongNames_Allo
+VivoLongNames_Metria
+VivoLongNames_Megalo
+VivoLongNames_Venator
+VivoLongNames_S-Raptor
+VivoLongNames_Giganto
+VivoLongNames_Cryo
+VivoLongNames_Carchar
+VivoLongNames_Acro
+VivoLongNames_F-Raptor
+VivoLongNames_Spinax
+VivoLongNames_Neo
+VivoLongNames_Compso
+VivoLongNames_Sopteryx
+VivoLongNames_Delta
+VivoLongNames_Tro
+VivoLongNames_Nychus
+VivoLongNames_M-Raptor
+VivoLongNames_U-Raptor
+VivoLongNames_V-Raptor
+VivoLongNames_Breme
+VivoLongNames_Aopteryx
+VivoLongNames_Coelo
+VivoLongNames_Dilopho
+VivoLongNames_Spino
+VivoLongNames_Angato
+VivoLongNames_Sucho
+VivoLongNames_Onyx
+VivoLongNames_Cerato
+VivoLongNames_Carno
+VivoLongNames_Orno
+VivoLongNames_Cheirus
+VivoLongNames_O-Raptor
+VivoLongNames_Zino
+VivoLongNames_Brachio
+VivoLongNames_Salto
+VivoLongNames_Shuno
+VivoLongNames_Perso
+VivoLongNames_Seismo
+VivoLongNames_Apato
+VivoLongNames_Amargo
+VivoLongNames_Stego
+VivoLongNames_Yango
+VivoLongNames_Jiango
+VivoLongNames_Kentro
+VivoLongNames_Lexo
+VivoLongNames_Nodo
+VivoLongNames_Ankylo
+VivoLongNames_Saichan
+VivoLongNames_Goyle
+VivoLongNames_Pelto
+VivoLongNames_Hypsi
+VivoLongNames_Nasaur
+VivoLongNames_Igua
+VivoLongNames_Ourano
+VivoLongNames_Lambeo
+VivoLongNames_Maia
+VivoLongNames_Anato
+VivoLongNames_Paraloph
+VivoLongNames_Pachy
+VivoLongNames_Stygi
+VivoLongNames_Goyo
+VivoLongNames_Proto
+VivoLongNames_Tricera
+VivoLongNames_Styraco
+VivoLongNames_Einio
+VivoLongNames_Centro
+VivoLongNames_Penta
+VivoLongNames_Pachrino
+VivoLongNames_Mihu
+VivoLongNames_Ptera
+VivoLongNames_Coatlus
+VivoLongNames_Jara
+VivoLongNames_Dimorph
+VivoLongNames_Guera
+VivoLongNames_Krona
+VivoLongNames_Futabi
+VivoLongNames_Elasmo
+VivoLongNames_Plesio
+VivoLongNames_Shoni
+VivoLongNames_Arsith
+VivoLongNames_Brontoth
+VivoLongNames_Elasmoth
+VivoLongNames_Hoplo
+VivoLongNames_Andrarch
+VivoLongNames_Paki
+VivoLongNames_Smilo
+VivoLongNames_Mammoth
+VivoLongNames_Tryma
+VivoLongNames_Megath
+VivoLongNames_Chelon
+VivoLongNames_Dinomaton
+VivoLongNames_Duna
+VivoLongNames_Raptin
+VivoLongNames_Dynal
+VivoLongNames_Frigi [OP]
+VivoLongNames_Igno [OP]
+VivoLongNames_Squik
+VivoLongNames_Squirk
+VivoLongNames_Squirth
+VivoLongNames_Squilk
+VivoLongNames_Squiro
+VivoLongNames_Guhweep
+VivoLongNames_Guhvorn
+VivoLongNames_Guhlith
+VivoLongNames_Frigi
+VivoLongNames_Igno
+VivoLongNames_Nothing
+VivoShortNames_T-Rex
+VivoShortNames_Daspleto
+VivoShortNames_Gorgo
+VivoShortNames_Tarbo
+VivoShortNames_Alio
+VivoShortNames_Siamo
+VivoShortNames_Alectro
+VivoShortNames_Guan
+VivoShortNames_Shanshan
+VivoShortNames_Allo
+VivoShortNames_Metria
+VivoShortNames_Megalo
+VivoShortNames_Venator
+VivoShortNames_S-Raptor
+VivoShortNames_Giganto
+VivoShortNames_Cryo
+VivoShortNames_Carchar
+VivoShortNames_Acro
+VivoShortNames_F-Raptor
+VivoShortNames_Spinax
+VivoShortNames_Neo
+VivoShortNames_Compso
+VivoShortNames_Sopteryx
+VivoShortNames_Delta
+VivoShortNames_Tro
+VivoShortNames_Nychus
+VivoShortNames_M-Raptor
+VivoShortNames_U-Raptor
+VivoShortNames_V-Raptor
+VivoShortNames_Breme
+VivoShortNames_Aopteryx
+VivoShortNames_Coelo
+VivoShortNames_Dilopho
+VivoShortNames_Spino
+VivoShortNames_Angato
+VivoShortNames_Sucho
+VivoShortNames_Onyx
+VivoShortNames_Cerato
+VivoShortNames_Carno
+VivoShortNames_Orno
+VivoShortNames_Cheirus
+VivoShortNames_O-Raptor
+VivoShortNames_Zino
+VivoShortNames_Brachio
+VivoShortNames_Salto
+VivoShortNames_Shuno
+VivoShortNames_Perso
+VivoShortNames_Seismo
+VivoShortNames_Apato
+VivoShortNames_Amargo
+VivoShortNames_Stego
+VivoShortNames_Yango
+VivoShortNames_Jiango
+VivoShortNames_Kentro
+VivoShortNames_Lexo
+VivoShortNames_Nodo
+VivoShortNames_Ankylo
+VivoShortNames_Saichan
+VivoShortNames_Goyle
+VivoShortNames_Pelto
+VivoShortNames_Hypsi
+VivoShortNames_Nasaur
+VivoShortNames_Igua
+VivoShortNames_Ourano
+VivoShortNames_Lambeo
+VivoShortNames_Maia
+VivoShortNames_Anato
+VivoShortNames_Paraloph
+VivoShortNames_Pachy
+VivoShortNames_Stygi
+VivoShortNames_Goyo
+VivoShortNames_Proto
+VivoShortNames_Tricera
+VivoShortNames_Styraco
+VivoShortNames_Einio
+VivoShortNames_Centro
+VivoShortNames_Penta
+VivoShortNames_Pachrino
+VivoShortNames_Mihu
+VivoShortNames_Ptera
+VivoShortNames_Coatlus
+VivoShortNames_Jara
+VivoShortNames_Dimorph
+VivoShortNames_Guera
+VivoShortNames_Krona
+VivoShortNames_Futabi
+VivoShortNames_Elasmo
+VivoShortNames_Plesio
+VivoShortNames_Shoni
+VivoShortNames_Arsith
+VivoShortNames_Brontoth
+VivoShortNames_Elasmoth
+VivoShortNames_Hoplo
+VivoShortNames_Andrarch
+VivoShortNames_Paki
+VivoShortNames_Smilo
+VivoShortNames_Mammoth
+VivoShortNames_Tryma
+VivoShortNames_Megath
+VivoShortNames_Chelon
+VivoShortNames_Dinomaton
+VivoShortNames_Duna
+VivoShortNames_Raptin
+VivoShortNames_Dynal
+VivoShortNames_Frigi [OP]
+VivoShortNames_Igno [OP]
+VivoShortNames_Squik
+VivoShortNames_Squirk
+VivoShortNames_Squirth
+VivoShortNames_Squilk
+VivoShortNames_Squiro
+VivoShortNames_Guhweep
+VivoShortNames_Guhvorn
+VivoShortNames_Guhlith
+VivoShortNames_Frigi
+VivoShortNames_Igno
+VivoShortNames_Nothing
+VivoClass_T-Rex
+VivoClass_Daspleto
+VivoClass_Gorgo
+VivoClass_Tarbo
+VivoClass_Alio
+VivoClass_Siamo
+VivoClass_Alectro
+VivoClass_Guan
+VivoClass_Shanshan
+VivoClass_Allo
+VivoClass_Metria
+VivoClass_Megalo
+VivoClass_Venator
+VivoClass_S-Raptor
+VivoClass_Giganto
+VivoClass_Cryo
+VivoClass_Carchar
+VivoClass_Acro
+VivoClass_F-Raptor
+VivoClass_Spinax
+VivoClass_Neo
+VivoClass_Compso
+VivoClass_Sopteryx
+VivoClass_Delta
+VivoClass_Tro
+VivoClass_Nychus
+VivoClass_M-Raptor
+VivoClass_U-Raptor
+VivoClass_V-Raptor
+VivoClass_Breme
+VivoClass_Aopteryx
+VivoClass_Coelo
+VivoClass_Dilopho
+VivoClass_Spino
+VivoClass_Angato
+VivoClass_Sucho
+VivoClass_Onyx
+VivoClass_Cerato
+VivoClass_Carno
+VivoClass_Orno
+VivoClass_Cheirus
+VivoClass_O-Raptor
+VivoClass_Zino
+VivoClass_Brachio
+VivoClass_Salto
+VivoClass_Shuno
+VivoClass_Perso
+VivoClass_Seismo
+VivoClass_Apato
+VivoClass_Amargo
+VivoClass_Stego
+VivoClass_Yango
+VivoClass_Jiango
+VivoClass_Kentro
+VivoClass_Lexo
+VivoClass_Nodo
+VivoClass_Ankylo
+VivoClass_Saichan
+VivoClass_Goyle
+VivoClass_Pelto
+VivoClass_Hypsi
+VivoClass_Nasaur
+VivoClass_Igua
+VivoClass_Ourano
+VivoClass_Lambeo
+VivoClass_Maia
+VivoClass_Anato
+VivoClass_Paraloph
+VivoClass_Pachy
+VivoClass_Stygi
+VivoClass_Goyo
+VivoClass_Proto
+VivoClass_Tricera
+VivoClass_Styraco
+VivoClass_Einio
+VivoClass_Centro
+VivoClass_Penta
+VivoClass_Pachrino
+VivoClass_Mihu
+VivoClass_Ptera
+VivoClass_Coatlus
+VivoClass_Jara
+VivoClass_Dimorph
+VivoClass_Guera
+VivoClass_Krona
+VivoClass_Futabi
+VivoClass_Elasmo
+VivoClass_Plesio
+VivoClass_Shoni
+VivoClass_Arsith
+VivoClass_Brontoth
+VivoClass_Elasmoth
+VivoClass_Hoplo
+VivoClass_Andrarch
+VivoClass_Paki
+VivoClass_Smilo
+VivoClass_Mammoth
+VivoClass_Tryma
+VivoClass_Megath
+VivoClass_Chelon
+VivoClass_Dinomaton
+VivoClass_Duna
+VivoClass_Raptin
+VivoClass_Dynal
+VivoClass_Frigi [OP]
+VivoClass_Igno [OP]
+VivoClass_Squik
+VivoClass_Squirk
+VivoClass_Squirth
+VivoClass_Squilk
+VivoClass_Squiro
+VivoClass_Guhweep
+VivoClass_Guhvorn
+VivoClass_Guhlith
+VivoClass_Frigi
+VivoClass_Igno
+VivoClass_Nothing
+VivoDescriptions_T-Rex
+VivoDescriptions_Daspleto
+VivoDescriptions_Gorgo
+VivoDescriptions_Tarbo
+VivoDescriptions_Alio
+VivoDescriptions_Siamo
+VivoDescriptions_Alectro
+VivoDescriptions_Guan
+VivoDescriptions_Shanshan
+VivoDescriptions_Allo
+VivoDescriptions_Metria
+VivoDescriptions_Megalo
+VivoDescriptions_Venator
+VivoDescriptions_S-Raptor
+VivoDescriptions_Giganto
+VivoDescriptions_Cryo
+VivoDescriptions_Carchar
+VivoDescriptions_Acro
+VivoDescriptions_F-Raptor
+VivoDescriptions_Spinax
+VivoDescriptions_Neo
+VivoDescriptions_Compso
+VivoDescriptions_Sopteryx
+VivoDescriptions_Delta
+VivoDescriptions_Tro
+VivoDescriptions_Nychus
+VivoDescriptions_M-Raptor
+VivoDescriptions_U-Raptor
+VivoDescriptions_V-Raptor
+VivoDescriptions_Breme
+VivoDescriptions_Aopteryx
+VivoDescriptions_Coelo
+VivoDescriptions_Dilopho
+VivoDescriptions_Spino
+VivoDescriptions_Angato
+VivoDescriptions_Sucho
+VivoDescriptions_Onyx
+VivoDescriptions_Cerato
+VivoDescriptions_Carno
+VivoDescriptions_Orno
+VivoDescriptions_Cheirus
+VivoDescriptions_O-Raptor
+VivoDescriptions_Zino
+VivoDescriptions_Brachio
+VivoDescriptions_Salto
+VivoDescriptions_Shuno
+VivoDescriptions_Perso
+VivoDescriptions_Seismo
+VivoDescriptions_Apato
+VivoDescriptions_Amargo
+VivoDescriptions_Stego
+VivoDescriptions_Yango
+VivoDescriptions_Jiango
+VivoDescriptions_Kentro
+VivoDescriptions_Lexo
+VivoDescriptions_Nodo
+VivoDescriptions_Ankylo
+VivoDescriptions_Saichan
+VivoDescriptions_Goyle
+VivoDescriptions_Pelto
+VivoDescriptions_Hypsi
+VivoDescriptions_Nasaur
+VivoDescriptions_Igua
+VivoDescriptions_Ourano
+VivoDescriptions_Lambeo
+VivoDescriptions_Maia
+VivoDescriptions_Anato
+VivoDescriptions_Paraloph
+VivoDescriptions_Pachy
+VivoDescriptions_Stygi
+VivoDescriptions_Goyo
+VivoDescriptions_Proto
+VivoDescriptions_Tricera
+VivoDescriptions_Styraco
+VivoDescriptions_Einio
+VivoDescriptions_Centro
+VivoDescriptions_Penta
+VivoDescriptions_Pachrino
+VivoDescriptions_Mihu
+VivoDescriptions_Ptera
+VivoDescriptions_Coatlus
+VivoDescriptions_Jara
+VivoDescriptions_Dimorph
+VivoDescriptions_Guera
+VivoDescriptions_Krona
+VivoDescriptions_Futabi
+VivoDescriptions_Elasmo
+VivoDescriptions_Plesio
+VivoDescriptions_Shoni
+VivoDescriptions_Arsith
+VivoDescriptions_Brontoth
+VivoDescriptions_Elasmoth
+VivoDescriptions_Hoplo
+VivoDescriptions_Andrarch
+VivoDescriptions_Paki
+VivoDescriptions_Smilo
+VivoDescriptions_Mammoth
+VivoDescriptions_Tryma
+VivoDescriptions_Megath
+VivoDescriptions_Chelon
+VivoDescriptions_Dinomaton
+VivoDescriptions_Duna
+VivoDescriptions_Raptin
+VivoDescriptions_Dynal
+VivoDescriptions_Frigi [OP]
+VivoDescriptions_Igno [OP]
+VivoDescriptions_Squik
+VivoDescriptions_Squirk
+VivoDescriptions_Squirth
+VivoDescriptions_Squilk
+VivoDescriptions_Squiro
+VivoDescriptions_Guhweep
+VivoDescriptions_Guhvorn
+VivoDescriptions_Guhlith
+VivoDescriptions_Frigi
+VivoDescriptions_Igno
+VivoMuseumText_T-Rex
+VivoMuseumText_Daspleto
+VivoMuseumText_Gorgo
+VivoMuseumText_Tarbo
+VivoMuseumText_Alio
+VivoMuseumText_Siamo
+VivoMuseumText_Alectro
+VivoMuseumText_Guan
+VivoMuseumText_Shanshan
+VivoMuseumText_Allo
+VivoMuseumText_Metria
+VivoMuseumText_Megalo
+VivoMuseumText_Venator
+VivoMuseumText_S-Raptor
+VivoMuseumText_Giganto
+VivoMuseumText_Cryo
+VivoMuseumText_Carchar
+VivoMuseumText_Acro
+VivoMuseumText_F-Raptor
+VivoMuseumText_Spinax
+VivoMuseumText_Neo
+VivoMuseumText_Compso
+VivoMuseumText_Sopteryx
+VivoMuseumText_Delta
+VivoMuseumText_Tro
+VivoMuseumText_Nychus
+VivoMuseumText_M-Raptor
+VivoMuseumText_U-Raptor
+VivoMuseumText_V-Raptor
+VivoMuseumText_Breme
+VivoMuseumText_Aopteryx
+VivoMuseumText_Coelo
+VivoMuseumText_Dilopho
+VivoMuseumText_Spino
+VivoMuseumText_Angato
+VivoMuseumText_Sucho
+VivoMuseumText_Onyx
+VivoMuseumText_Cerato
+VivoMuseumText_Carno
+VivoMuseumText_Orno
+VivoMuseumText_Cheirus
+VivoMuseumText_O-Raptor
+VivoMuseumText_Zino
+VivoMuseumText_Brachio
+VivoMuseumText_Salto
+VivoMuseumText_Shuno
+VivoMuseumText_Perso
+VivoMuseumText_Seismo
+VivoMuseumText_Apato
+VivoMuseumText_Amargo
+VivoMuseumText_Stego
+VivoMuseumText_Yango
+VivoMuseumText_Jiango
+VivoMuseumText_Kentro
+VivoMuseumText_Lexo
+VivoMuseumText_Nodo
+VivoMuseumText_Ankylo
+VivoMuseumText_Saichan
+VivoMuseumText_Goyle
+VivoMuseumText_Pelto
+VivoMuseumText_Hypsi
+VivoMuseumText_Nasaur
+VivoMuseumText_Igua
+VivoMuseumText_Ourano
+VivoMuseumText_Lambeo
+VivoMuseumText_Maia
+VivoMuseumText_Anato
+VivoMuseumText_Paraloph
+VivoMuseumText_Pachy
+VivoMuseumText_Stygi
+VivoMuseumText_Goyo
+VivoMuseumText_Proto
+VivoMuseumText_Tricera
+VivoMuseumText_Styraco
+VivoMuseumText_Einio
+VivoMuseumText_Centro
+VivoMuseumText_Penta
+VivoMuseumText_Pachrino
+VivoMuseumText_Mihu
+VivoMuseumText_Ptera
+VivoMuseumText_Coatlus
+VivoMuseumText_Jara
+VivoMuseumText_Dimorph
+VivoMuseumText_Guera
+VivoMuseumText_Krona
+VivoMuseumText_Futabi
+VivoMuseumText_Elasmo
+VivoMuseumText_Plesio
+VivoMuseumText_Shoni
+VivoMuseumText_Arsith
+VivoMuseumText_Brontoth
+VivoMuseumText_Elasmoth
+VivoMuseumText_Hoplo
+VivoMuseumText_Andrarch
+VivoMuseumText_Paki
+VivoMuseumText_Smilo
+VivoMuseumText_Mammoth
+VivoMuseumText_Tryma
+VivoMuseumText_Megath
+VivoMuseumText_Chelon
+VivoMuseumText_Dinomaton
+VivoMuseumText_Duna
+VivoMuseumText_Raptin
+VivoMuseumText_Dynal
+VivoMuseumText_Frigi [OP]
+VivoMuseumText_Igno [OP]
+VivoMuseumText_Squik
+VivoMuseumText_Squirk
+VivoMuseumText_Squirth
+VivoMuseumText_Squilk
+VivoMuseumText_Squiro
+VivoMuseumText_Guhweep
+VivoMuseumText_Guhvorn
+VivoMuseumText_Guhlith
+VivoMuseumText_Frigi
+VivoMuseumText_Igno
+Unused
+Unused
+MoveNames_Tyrant's Roar
+MoveNames_Scare Tactics
+MoveNames_Frightful Assault
+MoveNames_Tyrant's Breath
+MoveNames_Enflame
+MoveNames_Lethal Jaws
+MoveNames_Burst Breath
+MoveNames_Smash Combo
+MoveNames_Sand Storm
+MoveNames_Harden
+MoveNames_Jaws of Terror
+MoveNames_Fearsome Combo
+MoveNames_Nightmare Combo
+MoveNames_Tarbo Bite
+MoveNames_Cyclone
+MoveNames_Tarbo Combo
+MoveNames_Cyclonic Breath
+MoveNames_Alio Tusk
+MoveNames_Poison Needle
+MoveNames_Poison Breath
+MoveNames_Aqua Cannon
+MoveNames_Siamo Fang
+MoveNames_Sizzling Breath
+MoveNames_Siamo Combo
+MoveNames_Blue Fang
+MoveNames_Alectro Combo
+MoveNames_Long Fangs
+MoveNames_Guanlong Combo
+MoveNames_Guanlong Fury
+MoveNames_Quicken
+MoveNames_Shan Fang
+MoveNames_Shan Combo
+MoveNames_Shan Fury
+MoveNames_Allo Bite
+MoveNames_Allo Combo
+MoveNames_Allo Fury
+MoveNames_Void Blast
+MoveNames_Green Fang
+MoveNames_Metria Combo
+MoveNames_Megalo Bite
+MoveNames_Null Breath
+MoveNames_Megalo Combo
+MoveNames_Venator Bite
+MoveNames_Venator Combo
+MoveNames_Venator Fury
+MoveNames_S-Fang
+MoveNames_S-Combo
+MoveNames_S-Fury
+MoveNames_Giga Bite
+MoveNames_Mighty Stomp
+MoveNames_Cold Shout
+MoveNames_Toxic Ruin
+MoveNames_Cryo Combo
+MoveNames_Frozen Pulse
+MoveNames_Massive Jaws
+MoveNames_Carchar Combo
+MoveNames_Carchar Fury
+MoveNames_Earthen Blast
+MoveNames_Acro Bite
+MoveNames_Acro Combo
+MoveNames_Acro Fury
+MoveNames_Savage Bite
+MoveNames_Savage Combo
+MoveNames_Savage Fury
+MoveNames_Mountainbolt
+MoveNames_Spinax Fang
+MoveNames_Spinax Combo
+MoveNames_Neo Bite
+MoveNames_Neo Combo
+MoveNames_Neo Fury
+MoveNames_Power Scale
+MoveNames_Gravel Breath
+MoveNames_Compso Kick
+MoveNames_Terra Pulse
+MoveNames_生きる力
+MoveNames_Ankle-Biter
+MoveNames_Sopteryx Fire
+MoveNames_Disorienting Kick
+MoveNames_Heat Pulse
+MoveNames_Snapping Bite
+MoveNames_Delta Combo
+MoveNames_Delta Blitz
+MoveNames_Counter Blow
+MoveNames_Fierce Claw
+MoveNames_Fierce Combo
+MoveNames_Tro Toxin
+MoveNames_Nychus Claw
+MoveNames_Nychus Venom
+MoveNames_Nychus Toxin
+MoveNames_M-Claw
+MoveNames_M-Venom
+MoveNames_M-Toxin
+MoveNames_Raptor Claw
+MoveNames_U-Venom
+MoveNames_Raptor Rage
+MoveNames_Veloci-Claw
+MoveNames_Toxic Combo
+MoveNames_Lethal Poison
+MoveNames_Claw Swipe
+MoveNames_Vampiric Rage
+MoveNames_Toxic Assault
+MoveNames_Thieving Talons
+MoveNames_Ancient Power
+MoveNames_Elder Wrath
+MoveNames_Life Drain
+MoveNames_Coelo Fang
+MoveNames_Coelo Combo
+MoveNames_Battle Challenge
+MoveNames_Typhoon
+MoveNames_Life Charge
+MoveNames_Dilopho Fang
+MoveNames_Dilopho Combo
+MoveNames_Dilopho Fury
+MoveNames_Water Arrow
+MoveNames_Spino Blow
+MoveNames_Venomous Combo
+MoveNames_Venomous Barrage
+MoveNames_Angato Bite
+MoveNames_Poison Combo
+MoveNames_Sucho Bite
+MoveNames_Infuriating Combo
+MoveNames_Poison Barrage
+MoveNames_Onyx Bite
+MoveNames_Whiplash
+MoveNames_Cerato Fang
+MoveNames_Cerato Combo
+MoveNames_Carno Fang
+MoveNames_Carno Smash
+MoveNames_Wild Claw
+MoveNames_Crazed Peck
+MoveNames_Manic Spin
+MoveNames_Spinning Rampage
+MoveNames_Snout Strike
+MoveNames_Snout Combo
+MoveNames_Feather Blast
+MoveNames_O-Sonic
+MoveNames_Cleaver
+MoveNames_Slicer
+MoveNames_Frenzy of Destruction
+MoveNames_Mighty Stomp
+MoveNames_Mountain Wave
+MoveNames_Earth Crush
+MoveNames_Voidquake
+MoveNames_Salto Crush
+MoveNames_Salto Combo
+MoveNames_Aftershock
+MoveNames_Shuno Crush
+MoveNames_Epicenter
+MoveNames_Shuno Combo
+MoveNames_Flamequake
+MoveNames_Seismo Stomp
+MoveNames_Tremor Tail
+MoveNames_Continental Drift
+MoveNames_Amargo Stomp
+MoveNames_Blazing Doom
+MoveNames_Amargo Combo
+MoveNames_Spike Tail
+MoveNames_Whirling Dash
+MoveNames_Wind Spines
+MoveNames_Wind Storm
+MoveNames_Fire Spines
+MoveNames_Fire Storm
+MoveNames_Poison Spines
+MoveNames_Ice Storm
+MoveNames_Stone Spines
+MoveNames_Stone Storm
+MoveNames_Nodo Tackle
+MoveNames_Nodo Combo
+MoveNames_Perplex Shot
+MoveNames_Panic Typhoon
+MoveNames_Body Hammer
+MoveNames_Toxic Spear
+MoveNames_Ankylo Combo
+MoveNames_Fire Spear
+MoveNames_Saichan Combo
+MoveNames_Fire Cannon
+MoveNames_Body Axe
+MoveNames_Wind Spear
+MoveNames_Goyle Combo
+MoveNames_Wind Cannon
+MoveNames_Earth Spear
+MoveNames_Pelto Combo
+MoveNames_Earth Cannon
+MoveNames_Leaping Snap
+MoveNames_命のさえずり
+MoveNames_Hypsi Combo
+MoveNames_Nightmare Call
+MoveNames_Nasaur Combo
+MoveNames_Fist Jab
+MoveNames_Fist Flurry
+MoveNames_Igua Combo
+MoveNames_Spirit Calling
+MoveNames_Ourano Combo
+MoveNames_Sliding Ram
+MoveNames_Counting Coup
+MoveNames_Lambeo Combo
+MoveNames_Healing Hand
+MoveNames_Dainty Punch
+MoveNames_Null Song
+MoveNames_Healing Chorus
+MoveNames_Song of Life
+MoveNames_Flailing Blow
+MoveNames_Duck and Cover
+MoveNames_Discord
+MoveNames_Chaos Song
+MoveNames_Dino Uppercut
+MoveNames_Paraloph Rush
+MoveNames_Iron Headbutt
+MoveNames_Iron Ram
+MoveNames_Iron Missile
+MoveNames_Iron Barrage
+MoveNames_Headlong Rush
+MoveNames_Metamorphosis
+MoveNames_Double Rush
+MoveNames_Jagged Thunder
+MoveNames_Tricera Combo
+MoveNames_Triple Threat
+MoveNames_Tri-Torpedo
+MoveNames_Styraco Combo
+MoveNames_Styraco Fury
+MoveNames_Styraco Bomb
+MoveNames_Einio Combo
+MoveNames_Einio Fury
+MoveNames_Centro Combo
+MoveNames_Centro Fury
+MoveNames_Centro Bomb
+MoveNames_Penta Combo
+MoveNames_Penta Fury
+MoveNames_Clear the Path
+MoveNames_Pachrino Combo
+MoveNames_Pachrino Fury
+MoveNames_Mihu Blade
+MoveNames_Mihu Combo
+MoveNames_Mihu Fury
+MoveNames_Diving Thrust
+MoveNames_Great Vortex
+MoveNames_Wing Cutter
+MoveNames_Cyclone Wing
+MoveNames_Blow Away
+MoveNames_Knockout Cry
+MoveNames_Distracting Cry
+MoveNames_Spite Blast
+MoveNames_Rubble Rain
+MoveNames_Fiery Dive
+MoveNames_Ignite Rage
+MoveNames_Krona Bite
+MoveNames_Snapping Jaws
+MoveNames_Whirlpool
+MoveNames_Broadside
+MoveNames_Winding Snap
+MoveNames_Steer the Storm
+MoveNames_Elasmo Tackle
+MoveNames_Elasmo Combo
+MoveNames_Elasmo Fury
+MoveNames_Darting Blur
+MoveNames_Torpedo Attack
+MoveNames_Ramming Horn
+MoveNames_Somnia Beam
+MoveNames_Arsith Combo
+MoveNames_Ruin Beam
+MoveNames_Toxia Beam
+MoveNames_Brontoth Combo
+MoveNames_Ruin Beam
+MoveNames_Phobia Beam
+MoveNames_Elasmoth Combo
+MoveNames_Ruin Beam
+MoveNames_Hoplo Fang
+MoveNames_Hoplo Kick
+MoveNames_Hoplo Fury
+MoveNames_Wildheart
+MoveNames_Dire Fang
+MoveNames_Dire Combo
+MoveNames_Dire Fury
+MoveNames_Wild Fire
+MoveNames_Paki Fang
+MoveNames_Paki Kick
+MoveNames_Paki Combo
+MoveNames_Icy Exhalation
+MoveNames_Trunk Lash
+MoveNames_Mammoth Cannon
+MoveNames_Mammoth Combo
+MoveNames_Glacial Barrage
+MoveNames_Raptor Kick
+MoveNames_Raptor Combo
+MoveNames_Dirt Spray
+MoveNames_Boulder Spray
+MoveNames_Slow Blow
+MoveNames_Slow Combo
+MoveNames_Slow Fury
+MoveNames_Power Dive
+MoveNames_Aqua Blast
+MoveNames_Water Blade
+MoveNames_Maelstrom
+MoveNames_Ancient Waters
+MoveNames_Plesio Poison
+MoveNames_Steel Slash
+MoveNames_Scissor Swipe
+MoveNames_Heartless Fury
+MoveNames_かそくそうちON！
+MoveNames_Death Ray
+MoveNames_Elegant Bite
+MoveNames_Lethal Waltz
+MoveNames_Graceful Rage
+MoveNames_Enchanting Aura
+MoveNames_Sapphire Doom
+MoveNames_Spite Claw
+MoveNames_Ire Combo
+MoveNames_Reaper's Wrath
+MoveNames_Quick Shout
+MoveNames_Positron Beam
+MoveNames_Royal Bite
+MoveNames_Regal Combo
+MoveNames_Imperial Wrath
+MoveNames_Rex Roar
+MoveNames_Antimatter Beam
+MoveNames_Subzero Stomp
+MoveNames_Absolute Zero
+MoveNames_Ice Age
+MoveNames_Frozen Armor
+MoveNames_イテツクりゅうせい
+MoveNames_Burning Bite
+MoveNames_Volcanic Combo
+MoveNames_Inferno Breath
+MoveNames_Roaring Fire
+MoveNames_ボルケーノブレス
+MoveNames_Zero Cloud
+MoveNames_Flaming Torpedo
+MoveNames_Burning Wave
+MoveNames_Blazing Ruin
+MoveNames_Tornado Torpedo
+MoveNames_Mighty Gust
+MoveNames_Aero Annihilation
+MoveNames_Earthen Torpedo
+MoveNames_Stone Collision
+MoveNames_Land Hammer
+MoveNames_Water Torpedo
+MoveNames_Whirlpool Blast
+MoveNames_Ocean's Fist
+MoveNames_Null Torpedo
+MoveNames_Dark Tremor
+MoveNames_Void Storm
+MoveNames_Karmic Aura
+MoveNames_Weeping Slam
+MoveNames_Whirling Displacement
+MoveNames_Tears of Dark Light
+MoveNames_Electric Doom
+MoveNames_Ominous Bite
+MoveNames_Gash Combo
+MoveNames_Cascading Savagery
+MoveNames_Billowing Anger
+MoveNames_Bend Space
+MoveNames_Ignite Anger
+MoveNames_Frenzied Mockery
+MoveNames_Unearthly Armor
+MoveNames_Poisonous Fury
+MoveNames_Venomous Barrage
+MoveNames_Headbutt
+MoveNames_Reaper
+MoveNames_Shockwave
+MoveNames_Waterspout
+MoveNames_Fly Swatter
+MoveNames_Super Enflame
+MoveNames_Super Harden
+MoveNames_Super Quicken
+MoveNames_Great Unmasking
+MoveNames_Sacrifice
+MoveNames_Law of the Jungle
+MoveNames_Razor Claw
+MoveNames_Beak of Fury
+MoveNames_Whirling Doom
+MoveNames_Rock Head
+MoveNames_Rock Shot
+MoveNames_Rock Missile
+MoveNames_Rock Bombing
+MoveNames_Running Smash
+MoveNames_Leaping Gore
+MoveNames_Einio Tornado
+MoveNames_Pachrino Tornado
+MoveNames_Penta Bomb
+MoveNames_Scorch Breath
+MoveNames_Ocean Pulse
+MoveNames_Glacial Rage
+MoveNames_Poisonous Assault
+MoveNames_Smilo Bite
+MoveNames_Smilo Kick
+MoveNames_Smilo Rage
+MoveNames_Fiendish Headbutt
+MoveNames_Fiendish Ram
+MoveNames_Fiendish Missile
+MoveNames_Fiendish Barrage
+MoveNames_Siege Tower
+MoveNames_Awesome Presence
+MoveNames_Culture Shock
+MoveNames_Neutralize
+MoveNames_Healing Song
+MoveNames_Perplexing Chitter
+MoveNames_Toxic Chitter
+MoveNames_Poison Tail
+MoveNames_Poison Spin
+MoveNames_TK Bubble
+MoveNames_Vampiric Strength
+MoveNames_Lantern Blight
+MoveNames_Rattling Sabers
+MoveNames_Tidal Assault
+MoveNames_Subzero Stomp
+MoveNames_Absolute Zero
+MoveNames_Ice Age
+MoveNames_Frozen Armor
+SupportTargets
+SupportTargets
+SupportTargets
+MoveBattleDescr_Tyrant's Roar
+MoveBattleDescr_Scare Tactics
+MoveBattleDescr_Frightful Assault
+MoveBattleDescr_Tyrant's Breath
+MoveBattleDescr_Enflame
+MoveBattleDescr_Lethal Jaws
+MoveBattleDescr_Burst Breath
+MoveBattleDescr_Smash Combo
+MoveBattleDescr_Sand Storm
+MoveBattleDescr_Harden
+MoveBattleDescr_Jaws of Terror
+MoveBattleDescr_Fearsome Combo
+MoveBattleDescr_Nightmare Combo
+MoveBattleDescr_Tarbo Bite
+MoveBattleDescr_Cyclone
+MoveBattleDescr_Tarbo Combo
+MoveBattleDescr_Cyclonic Breath
+MoveBattleDescr_Alio Tusk
+MoveBattleDescr_Poison Needle
+MoveBattleDescr_Poison Breath
+MoveBattleDescr_Aqua Cannon
+MoveBattleDescr_Siamo Fang
+MoveBattleDescr_Sizzling Breath
+MoveBattleDescr_Siamo Combo
+MoveBattleDescr_Blue Fang
+MoveBattleDescr_Alectro Combo
+MoveBattleDescr_Long Fangs
+MoveBattleDescr_Guanlong Combo
+MoveBattleDescr_Guanlong Fury
+MoveBattleDescr_Quicken
+MoveBattleDescr_Shan Fang
+MoveBattleDescr_Shan Combo
+MoveBattleDescr_Shan Fury
+MoveBattleDescr_Allo Bite
+MoveBattleDescr_Allo Combo
+MoveBattleDescr_Allo Fury
+MoveBattleDescr_Void Blast
+MoveBattleDescr_Green Fang
+MoveBattleDescr_Metria Combo
+MoveBattleDescr_Megalo Bite
+MoveBattleDescr_Null Breath
+MoveBattleDescr_Megalo Combo
+MoveBattleDescr_Venator Bite
+MoveBattleDescr_Venator Combo
+MoveBattleDescr_Venator Fury
+MoveBattleDescr_S-Fang
+MoveBattleDescr_S-Combo
+MoveBattleDescr_S-Fury
+MoveBattleDescr_Giga Bite
+MoveBattleDescr_Mighty Stomp
+MoveBattleDescr_Cold Shout
+MoveBattleDescr_Toxic Ruin
+MoveBattleDescr_Cryo Combo
+MoveBattleDescr_Frozen Pulse
+MoveBattleDescr_Massive Jaws
+MoveBattleDescr_Carchar Combo
+MoveBattleDescr_Carchar Fury
+MoveBattleDescr_Earthen Blast
+MoveBattleDescr_Acro Bite
+MoveBattleDescr_Acro Combo
+MoveBattleDescr_Acro Fury
+MoveBattleDescr_Savage Bite
+MoveBattleDescr_Savage Combo
+MoveBattleDescr_Savage Fury
+MoveBattleDescr_Mountainbolt
+MoveBattleDescr_Spinax Fang
+MoveBattleDescr_Spinax Combo
+MoveBattleDescr_Neo Bite
+MoveBattleDescr_Neo Combo
+MoveBattleDescr_Neo Fury
+MoveBattleDescr_Power Scale
+MoveBattleDescr_Gravel Breath
+MoveBattleDescr_Compso Kick
+MoveBattleDescr_Terra Pulse
+MoveBattleDescr_生きる力
+MoveBattleDescr_Ankle-Biter
+MoveBattleDescr_Sopteryx Fire
+MoveBattleDescr_Disorienting Kick
+MoveBattleDescr_Heat Pulse
+MoveBattleDescr_Snapping Bite
+MoveBattleDescr_Delta Combo
+MoveBattleDescr_Delta Blitz
+MoveBattleDescr_Counter Blow
+MoveBattleDescr_Fierce Claw
+MoveBattleDescr_Fierce Combo
+MoveBattleDescr_Tro Toxin
+MoveBattleDescr_Nychus Claw
+MoveBattleDescr_Nychus Venom
+MoveBattleDescr_Nychus Toxin
+MoveBattleDescr_M-Claw
+MoveBattleDescr_M-Venom
+MoveBattleDescr_M-Toxin
+MoveBattleDescr_Raptor Claw
+MoveBattleDescr_U-Venom
+MoveBattleDescr_Raptor Rage
+MoveBattleDescr_Veloci-Claw
+MoveBattleDescr_Toxic Combo
+MoveBattleDescr_Lethal Poison
+MoveBattleDescr_Claw Swipe
+MoveBattleDescr_Vampiric Rage
+MoveBattleDescr_Toxic Assault
+MoveBattleDescr_Thieving Talons
+MoveBattleDescr_Ancient Power
+MoveBattleDescr_Elder Wrath
+MoveBattleDescr_Life Drain
+MoveBattleDescr_Coelo Fang
+MoveBattleDescr_Coelo Combo
+MoveBattleDescr_Battle Challenge
+MoveBattleDescr_Typhoon
+MoveBattleDescr_Life Charge
+MoveBattleDescr_Dilopho Fang
+MoveBattleDescr_Dilopho Combo
+MoveBattleDescr_Dilopho Fury
+MoveBattleDescr_Water Arrow
+MoveBattleDescr_Spino Blow
+MoveBattleDescr_Venomous Combo
+MoveBattleDescr_Venomous Barrage
+MoveBattleDescr_Angato Bite
+MoveBattleDescr_Poison Combo
+MoveBattleDescr_Sucho Bite
+MoveBattleDescr_Infuriating Combo
+MoveBattleDescr_Poison Barrage
+MoveBattleDescr_Onyx Bite
+MoveBattleDescr_Whiplash
+MoveBattleDescr_Cerato Fang
+MoveBattleDescr_Cerato Combo
+MoveBattleDescr_Carno Fang
+MoveBattleDescr_Carno Smash
+MoveBattleDescr_Wild Claw
+MoveBattleDescr_Crazed Peck
+MoveBattleDescr_Manic Spin
+MoveBattleDescr_Spinning Rampage
+MoveBattleDescr_Snout Strike
+MoveBattleDescr_Snout Combo
+MoveBattleDescr_Feather Blast
+MoveBattleDescr_O-Sonic
+MoveBattleDescr_Cleaver
+MoveBattleDescr_Slicer
+MoveBattleDescr_Frenzy of Destruction
+MoveBattleDescr_Mighty Stomp
+MoveBattleDescr_Mountain Wave
+MoveBattleDescr_Earth Crush
+MoveBattleDescr_Voidquake
+MoveBattleDescr_Salto Crush
+MoveBattleDescr_Salto Combo
+MoveBattleDescr_Aftershock
+MoveBattleDescr_Shuno Crush
+MoveBattleDescr_Epicenter
+MoveBattleDescr_Shuno Combo
+MoveBattleDescr_Flamequake
+MoveBattleDescr_Seismo Stomp
+MoveBattleDescr_Tremor Tail
+MoveBattleDescr_Continental Drift
+MoveBattleDescr_Amargo Stomp
+MoveBattleDescr_Blazing Doom
+MoveBattleDescr_Amargo Combo
+MoveBattleDescr_Spike Tail
+MoveBattleDescr_Whirling Dash
+MoveBattleDescr_Wind Spines
+MoveBattleDescr_Wind Storm
+MoveBattleDescr_Fire Spines
+MoveBattleDescr_Fire Storm
+MoveBattleDescr_Poison Spines
+MoveBattleDescr_Ice Storm
+MoveBattleDescr_Stone Spines
+MoveBattleDescr_Stone Storm
+MoveBattleDescr_Nodo Tackle
+MoveBattleDescr_Nodo Combo
+MoveBattleDescr_Perplex Shot
+MoveBattleDescr_Panic Typhoon
+MoveBattleDescr_Body Hammer
+MoveBattleDescr_Toxic Spear
+MoveBattleDescr_Ankylo Combo
+MoveBattleDescr_Fire Spear
+MoveBattleDescr_Saichan Combo
+MoveBattleDescr_Fire Cannon
+MoveBattleDescr_Body Axe
+MoveBattleDescr_Wind Spear
+MoveBattleDescr_Goyle Combo
+MoveBattleDescr_Wind Cannon
+MoveBattleDescr_Earth Spear
+MoveBattleDescr_Pelto Combo
+MoveBattleDescr_Earth Cannon
+MoveBattleDescr_Leaping Snap
+MoveBattleDescr_命のさえずり
+MoveBattleDescr_Hypsi Combo
+MoveBattleDescr_Nightmare Call
+MoveBattleDescr_Nasaur Combo
+MoveBattleDescr_Fist Jab
+MoveBattleDescr_Fist Flurry
+MoveBattleDescr_Igua Combo
+MoveBattleDescr_Spirit Calling
+MoveBattleDescr_Ourano Combo
+MoveBattleDescr_Sliding Ram
+MoveBattleDescr_Counting Coup
+MoveBattleDescr_Lambeo Combo
+MoveBattleDescr_Healing Hand
+MoveBattleDescr_Dainty Punch
+MoveBattleDescr_Null Song
+MoveBattleDescr_Healing Chorus
+MoveBattleDescr_Song of Life
+MoveBattleDescr_Flailing Blow
+MoveBattleDescr_Duck and Cover
+MoveBattleDescr_Discord
+MoveBattleDescr_Chaos Song
+MoveBattleDescr_Dino Uppercut
+MoveBattleDescr_Paraloph Rush
+MoveBattleDescr_Iron Headbutt
+MoveBattleDescr_Iron Ram
+MoveBattleDescr_Iron Missile
+MoveBattleDescr_Iron Barrage
+MoveBattleDescr_Headlong Rush
+MoveBattleDescr_Metamorphosis
+MoveBattleDescr_Double Rush
+MoveBattleDescr_Jagged Thunder
+MoveBattleDescr_Tricera Combo
+MoveBattleDescr_Triple Threat
+MoveBattleDescr_Tri-Torpedo
+MoveBattleDescr_Styraco Combo
+MoveBattleDescr_Styraco Fury
+MoveBattleDescr_Styraco Bomb
+MoveBattleDescr_Einio Combo
+MoveBattleDescr_Einio Fury
+MoveBattleDescr_Centro Combo
+MoveBattleDescr_Centro Fury
+MoveBattleDescr_Centro Bomb
+MoveBattleDescr_Penta Combo
+MoveBattleDescr_Penta Fury
+MoveBattleDescr_Clear the Path
+MoveBattleDescr_Pachrino Combo
+MoveBattleDescr_Pachrino Fury
+MoveBattleDescr_Mihu Blade
+MoveBattleDescr_Mihu Combo
+MoveBattleDescr_Mihu Fury
+MoveBattleDescr_Diving Thrust
+MoveBattleDescr_Great Vortex
+MoveBattleDescr_Wing Cutter
+MoveBattleDescr_Cyclone Wing
+MoveBattleDescr_Blow Away
+MoveBattleDescr_Knockout Cry
+MoveBattleDescr_Distracting Cry
+MoveBattleDescr_Spite Blast
+MoveBattleDescr_Rubble Rain
+MoveBattleDescr_Fiery Dive
+MoveBattleDescr_Ignite Rage
+MoveBattleDescr_Krona Bite
+MoveBattleDescr_Snapping Jaws
+MoveBattleDescr_Whirlpool
+MoveBattleDescr_Broadside
+MoveBattleDescr_Winding Snap
+MoveBattleDescr_Steer the Storm
+MoveBattleDescr_Elasmo Tackle
+MoveBattleDescr_Elasmo Combo
+MoveBattleDescr_Elasmo Fury
+MoveBattleDescr_Darting Blur
+MoveBattleDescr_Torpedo Attack
+MoveBattleDescr_Ramming Horn
+MoveBattleDescr_Somnia Beam
+MoveBattleDescr_Arsith Combo
+MoveBattleDescr_Ruin Beam
+MoveBattleDescr_Toxia Beam
+MoveBattleDescr_Brontoth Combo
+MoveBattleDescr_Ruin Beam
+MoveBattleDescr_Phobia Beam
+MoveBattleDescr_Elasmoth Combo
+MoveBattleDescr_Ruin Beam
+MoveBattleDescr_Hoplo Fang
+MoveBattleDescr_Hoplo Kick
+MoveBattleDescr_Hoplo Fury
+MoveBattleDescr_Wildheart
+MoveBattleDescr_Dire Fang
+MoveBattleDescr_Dire Combo
+MoveBattleDescr_Dire Fury
+MoveBattleDescr_Wild Fire
+MoveBattleDescr_Paki Fang
+MoveBattleDescr_Paki Kick
+MoveBattleDescr_Paki Combo
+MoveBattleDescr_Icy Exhalation
+MoveBattleDescr_Trunk Lash
+MoveBattleDescr_Mammoth Cannon
+MoveBattleDescr_Mammoth Combo
+MoveBattleDescr_Glacial Barrage
+MoveBattleDescr_Raptor Kick
+MoveBattleDescr_Raptor Combo
+MoveBattleDescr_Dirt Spray
+MoveBattleDescr_Boulder Spray
+MoveBattleDescr_Slow Blow
+MoveBattleDescr_Slow Combo
+MoveBattleDescr_Slow Fury
+MoveBattleDescr_Power Dive
+MoveBattleDescr_Aqua Blast
+MoveBattleDescr_Water Blade
+MoveBattleDescr_Maelstrom
+MoveBattleDescr_Ancient Waters
+MoveBattleDescr_Plesio Poison
+MoveBattleDescr_Steel Slash
+MoveBattleDescr_Scissor Swipe
+MoveBattleDescr_Heartless Fury
+MoveBattleDescr_かそくそうちON！
+MoveBattleDescr_Death Ray
+MoveBattleDescr_Elegant Bite
+MoveBattleDescr_Lethal Waltz
+MoveBattleDescr_Graceful Rage
+MoveBattleDescr_Enchanting Aura
+MoveBattleDescr_Sapphire Doom
+MoveBattleDescr_Spite Claw
+MoveBattleDescr_Ire Combo
+MoveBattleDescr_Reaper's Wrath
+MoveBattleDescr_Quick Shout
+MoveBattleDescr_Positron Beam
+MoveBattleDescr_Royal Bite
+MoveBattleDescr_Regal Combo
+MoveBattleDescr_Imperial Wrath
+MoveBattleDescr_Rex Roar
+MoveBattleDescr_Antimatter Beam
+MoveBattleDescr_Subzero Stomp
+MoveBattleDescr_Absolute Zero
+MoveBattleDescr_Ice Age
+MoveBattleDescr_Frozen Armor
+MoveBattleDescr_イテツクりゅうせい
+MoveBattleDescr_Burning Bite
+MoveBattleDescr_Volcanic Combo
+MoveBattleDescr_Inferno Breath
+MoveBattleDescr_Roaring Fire
+MoveBattleDescr_ボルケーノブレス
+MoveBattleDescr_Zero Cloud
+MoveBattleDescr_Flaming Torpedo
+MoveBattleDescr_Burning Wave
+MoveBattleDescr_Blazing Ruin
+MoveBattleDescr_Tornado Torpedo
+MoveBattleDescr_Mighty Gust
+MoveBattleDescr_Aero Annihilation
+MoveBattleDescr_Earthen Torpedo
+MoveBattleDescr_Stone Collision
+MoveBattleDescr_Land Hammer
+MoveBattleDescr_Water Torpedo
+MoveBattleDescr_Whirlpool Blast
+MoveBattleDescr_Ocean's Fist
+MoveBattleDescr_Null Torpedo
+MoveBattleDescr_Dark Tremor
+MoveBattleDescr_Void Storm
+MoveBattleDescr_Karmic Aura
+MoveBattleDescr_Weeping Slam
+MoveBattleDescr_Whirling Displacement
+MoveBattleDescr_Tears of Dark Light
+MoveBattleDescr_Electric Doom
+MoveBattleDescr_Ominous Bite
+MoveBattleDescr_Gash Combo
+MoveBattleDescr_Cascading Savagery
+MoveBattleDescr_Billowing Anger
+MoveBattleDescr_Bend Space
+MoveBattleDescr_Ignite Anger
+MoveBattleDescr_Frenzied Mockery
+MoveBattleDescr_Unearthly Armor
+MoveBattleDescr_Poisonous Fury
+MoveBattleDescr_Venomous Barrage
+MoveBattleDescr_Headbutt
+MoveBattleDescr_Reaper
+MoveBattleDescr_Shockwave
+MoveBattleDescr_Waterspout
+MoveBattleDescr_Fly Swatter
+MoveBattleDescr_Super Enflame
+MoveBattleDescr_Super Harden
+MoveBattleDescr_Super Quicken
+MoveBattleDescr_Great Unmasking
+MoveBattleDescr_Sacrifice
+MoveBattleDescr_Law of the Jungle
+MoveBattleDescr_Razor Claw
+MoveBattleDescr_Beak of Fury
+MoveBattleDescr_Whirling Doom
+MoveBattleDescr_Rock Head
+MoveBattleDescr_Rock Shot
+MoveBattleDescr_Rock Missile
+MoveBattleDescr_Rock Bombing
+MoveBattleDescr_Running Smash
+MoveBattleDescr_Leaping Gore
+MoveBattleDescr_Einio Tornado
+MoveBattleDescr_Pachrino Tornado
+MoveBattleDescr_Penta Bomb
+MoveBattleDescr_Scorch Breath
+MoveBattleDescr_Ocean Pulse
+MoveBattleDescr_Glacial Rage
+MoveBattleDescr_Poisonous Assault
+MoveBattleDescr_Smilo Bite
+MoveBattleDescr_Smilo Kick
+MoveBattleDescr_Smilo Rage
+MoveBattleDescr_Fiendish Headbutt
+MoveBattleDescr_Fiendish Ram
+MoveBattleDescr_Fiendish Missile
+MoveBattleDescr_Fiendish Barrage
+MoveBattleDescr_Siege Tower
+MoveBattleDescr_Awesome Presence
+MoveBattleDescr_Culture Shock
+MoveBattleDescr_Neutralize
+MoveBattleDescr_Healing Song
+MoveBattleDescr_Perplexing Chitter
+MoveBattleDescr_Toxic Chitter
+MoveBattleDescr_Poison Tail
+MoveBattleDescr_Poison Spin
+MoveBattleDescr_TK Bubble
+MoveBattleDescr_Vampiric Strength
+MoveBattleDescr_Lantern Blight
+MoveBattleDescr_Rattling Sabers
+MoveBattleDescr_Tidal Assault
+MoveBattleDescr_Subzero Stomp
+MoveBattleDescr_Absolute Zero
+MoveBattleDescr_Ice Age
+MoveBattleDescr_Frozen Armor
+Unused
+MoveVMMDescr_Tyrant's Roar
+MoveVMMDescr_Scare Tactics
+MoveVMMDescr_Frightful Assault
+MoveVMMDescr_Tyrant's Breath
+MoveVMMDescr_Enflame
+MoveVMMDescr_Lethal Jaws
+MoveVMMDescr_Burst Breath
+MoveVMMDescr_Smash Combo
+MoveVMMDescr_Sand Storm
+MoveVMMDescr_Harden
+MoveVMMDescr_Jaws of Terror
+MoveVMMDescr_Fearsome Combo
+MoveVMMDescr_Nightmare Combo
+MoveVMMDescr_Tarbo Bite
+MoveVMMDescr_Cyclone
+MoveVMMDescr_Tarbo Combo
+MoveVMMDescr_Cyclonic Breath
+MoveVMMDescr_Alio Tusk
+MoveVMMDescr_Poison Needle
+MoveVMMDescr_Poison Breath
+MoveVMMDescr_Aqua Cannon
+MoveVMMDescr_Siamo Fang
+MoveVMMDescr_Sizzling Breath
+MoveVMMDescr_Siamo Combo
+MoveVMMDescr_Blue Fang
+MoveVMMDescr_Alectro Combo
+MoveVMMDescr_Long Fangs
+MoveVMMDescr_Guanlong Combo
+MoveVMMDescr_Guanlong Fury
+MoveVMMDescr_Quicken
+MoveVMMDescr_Shan Fang
+MoveVMMDescr_Shan Combo
+MoveVMMDescr_Shan Fury
+MoveVMMDescr_Allo Bite
+MoveVMMDescr_Allo Combo
+MoveVMMDescr_Allo Fury
+MoveVMMDescr_Void Blast
+MoveVMMDescr_Green Fang
+MoveVMMDescr_Metria Combo
+MoveVMMDescr_Megalo Bite
+MoveVMMDescr_Null Breath
+MoveVMMDescr_Megalo Combo
+MoveVMMDescr_Venator Bite
+MoveVMMDescr_Venator Combo
+MoveVMMDescr_Venator Fury
+MoveVMMDescr_S-Fang
+MoveVMMDescr_S-Combo
+MoveVMMDescr_S-Fury
+MoveVMMDescr_Giga Bite
+MoveVMMDescr_Mighty Stomp
+MoveVMMDescr_Cold Shout
+MoveVMMDescr_Toxic Ruin
+MoveVMMDescr_Cryo Combo
+MoveVMMDescr_Frozen Pulse
+MoveVMMDescr_Massive Jaws
+MoveVMMDescr_Carchar Combo
+MoveVMMDescr_Carchar Fury
+MoveVMMDescr_Earthen Blast
+MoveVMMDescr_Acro Bite
+MoveVMMDescr_Acro Combo
+MoveVMMDescr_Acro Fury
+MoveVMMDescr_Savage Bite
+MoveVMMDescr_Savage Combo
+MoveVMMDescr_Savage Fury
+MoveVMMDescr_Mountainbolt
+MoveVMMDescr_Spinax Fang
+MoveVMMDescr_Spinax Combo
+MoveVMMDescr_Neo Bite
+MoveVMMDescr_Neo Combo
+MoveVMMDescr_Neo Fury
+MoveVMMDescr_Power Scale
+MoveVMMDescr_Gravel Breath
+MoveVMMDescr_Compso Kick
+MoveVMMDescr_Terra Pulse
+MoveVMMDescr_生きる力
+MoveVMMDescr_Ankle-Biter
+MoveVMMDescr_Sopteryx Fire
+MoveVMMDescr_Disorienting Kick
+MoveVMMDescr_Heat Pulse
+MoveVMMDescr_Snapping Bite
+MoveVMMDescr_Delta Combo
+MoveVMMDescr_Delta Blitz
+MoveVMMDescr_Counter Blow
+MoveVMMDescr_Fierce Claw
+MoveVMMDescr_Fierce Combo
+MoveVMMDescr_Tro Toxin
+MoveVMMDescr_Nychus Claw
+MoveVMMDescr_Nychus Venom
+MoveVMMDescr_Nychus Toxin
+MoveVMMDescr_M-Claw
+MoveVMMDescr_M-Venom
+MoveVMMDescr_M-Toxin
+MoveVMMDescr_Raptor Claw
+MoveVMMDescr_U-Venom
+MoveVMMDescr_Raptor Rage
+MoveVMMDescr_Veloci-Claw
+MoveVMMDescr_Toxic Combo
+MoveVMMDescr_Lethal Poison
+MoveVMMDescr_Claw Swipe
+MoveVMMDescr_Vampiric Rage
+MoveVMMDescr_Toxic Assault
+MoveVMMDescr_Thieving Talons
+MoveVMMDescr_Ancient Power
+MoveVMMDescr_Elder Wrath
+MoveVMMDescr_Life Drain
+MoveVMMDescr_Coelo Fang
+MoveVMMDescr_Coelo Combo
+MoveVMMDescr_Battle Challenge
+MoveVMMDescr_Typhoon
+MoveVMMDescr_Life Charge
+MoveVMMDescr_Dilopho Fang
+MoveVMMDescr_Dilopho Combo
+MoveVMMDescr_Dilopho Fury
+MoveVMMDescr_Water Arrow
+MoveVMMDescr_Spino Blow
+MoveVMMDescr_Venomous Combo
+MoveVMMDescr_Venomous Barrage
+MoveVMMDescr_Angato Bite
+MoveVMMDescr_Poison Combo
+MoveVMMDescr_Sucho Bite
+MoveVMMDescr_Infuriating Combo
+MoveVMMDescr_Poison Barrage
+MoveVMMDescr_Onyx Bite
+MoveVMMDescr_Whiplash
+MoveVMMDescr_Cerato Fang
+MoveVMMDescr_Cerato Combo
+MoveVMMDescr_Carno Fang
+MoveVMMDescr_Carno Smash
+MoveVMMDescr_Wild Claw
+MoveVMMDescr_Crazed Peck
+MoveVMMDescr_Manic Spin
+MoveVMMDescr_Spinning Rampage
+MoveVMMDescr_Snout Strike
+MoveVMMDescr_Snout Combo
+MoveVMMDescr_Feather Blast
+MoveVMMDescr_O-Sonic
+MoveVMMDescr_Cleaver
+MoveVMMDescr_Slicer
+MoveVMMDescr_Frenzy of Destruction
+MoveVMMDescr_Mighty Stomp
+MoveVMMDescr_Mountain Wave
+MoveVMMDescr_Earth Crush
+MoveVMMDescr_Voidquake
+MoveVMMDescr_Salto Crush
+MoveVMMDescr_Salto Combo
+MoveVMMDescr_Aftershock
+MoveVMMDescr_Shuno Crush
+MoveVMMDescr_Epicenter
+MoveVMMDescr_Shuno Combo
+MoveVMMDescr_Flamequake
+MoveVMMDescr_Seismo Stomp
+MoveVMMDescr_Tremor Tail
+MoveVMMDescr_Continental Drift
+MoveVMMDescr_Amargo Stomp
+MoveVMMDescr_Blazing Doom
+MoveVMMDescr_Amargo Combo
+MoveVMMDescr_Spike Tail
+MoveVMMDescr_Whirling Dash
+MoveVMMDescr_Wind Spines
+MoveVMMDescr_Wind Storm
+MoveVMMDescr_Fire Spines
+MoveVMMDescr_Fire Storm
+MoveVMMDescr_Poison Spines
+MoveVMMDescr_Ice Storm
+MoveVMMDescr_Stone Spines
+MoveVMMDescr_Stone Storm
+MoveVMMDescr_Nodo Tackle
+MoveVMMDescr_Nodo Combo
+MoveVMMDescr_Perplex Shot
+MoveVMMDescr_Panic Typhoon
+MoveVMMDescr_Body Hammer
+MoveVMMDescr_Toxic Spear
+MoveVMMDescr_Ankylo Combo
+MoveVMMDescr_Fire Spear
+MoveVMMDescr_Saichan Combo
+MoveVMMDescr_Fire Cannon
+MoveVMMDescr_Body Axe
+MoveVMMDescr_Wind Spear
+MoveVMMDescr_Goyle Combo
+MoveVMMDescr_Wind Cannon
+MoveVMMDescr_Earth Spear
+MoveVMMDescr_Pelto Combo
+MoveVMMDescr_Earth Cannon
+MoveVMMDescr_Leaping Snap
+MoveVMMDescr_命のさえずり
+MoveVMMDescr_Hypsi Combo
+MoveVMMDescr_Nightmare Call
+MoveVMMDescr_Nasaur Combo
+MoveVMMDescr_Fist Jab
+MoveVMMDescr_Fist Flurry
+MoveVMMDescr_Igua Combo
+MoveVMMDescr_Spirit Calling
+MoveVMMDescr_Ourano Combo
+MoveVMMDescr_Sliding Ram
+MoveVMMDescr_Counting Coup
+MoveVMMDescr_Lambeo Combo
+MoveVMMDescr_Healing Hand
+MoveVMMDescr_Dainty Punch
+MoveVMMDescr_Null Song
+MoveVMMDescr_Healing Chorus
+MoveVMMDescr_Song of Life
+MoveVMMDescr_Flailing Blow
+MoveVMMDescr_Duck and Cover
+MoveVMMDescr_Discord
+MoveVMMDescr_Chaos Song
+MoveVMMDescr_Dino Uppercut
+MoveVMMDescr_Paraloph Rush
+MoveVMMDescr_Iron Headbutt
+MoveVMMDescr_Iron Ram
+MoveVMMDescr_Iron Missile
+MoveVMMDescr_Iron Barrage
+MoveVMMDescr_Headlong Rush
+MoveVMMDescr_Metamorphosis
+MoveVMMDescr_Double Rush
+MoveVMMDescr_Jagged Thunder
+MoveVMMDescr_Tricera Combo
+MoveVMMDescr_Triple Threat
+MoveVMMDescr_Tri-Torpedo
+MoveVMMDescr_Styraco Combo
+MoveVMMDescr_Styraco Fury
+MoveVMMDescr_Styraco Bomb
+MoveVMMDescr_Einio Combo
+MoveVMMDescr_Einio Fury
+MoveVMMDescr_Centro Combo
+MoveVMMDescr_Centro Fury
+MoveVMMDescr_Centro Bomb
+MoveVMMDescr_Penta Combo
+MoveVMMDescr_Penta Fury
+MoveVMMDescr_Clear the Path
+MoveVMMDescr_Pachrino Combo
+MoveVMMDescr_Pachrino Fury
+MoveVMMDescr_Mihu Blade
+MoveVMMDescr_Mihu Combo
+MoveVMMDescr_Mihu Fury
+MoveVMMDescr_Diving Thrust
+MoveVMMDescr_Great Vortex
+MoveVMMDescr_Wing Cutter
+MoveVMMDescr_Cyclone Wing
+MoveVMMDescr_Blow Away
+MoveVMMDescr_Knockout Cry
+MoveVMMDescr_Distracting Cry
+MoveVMMDescr_Spite Blast
+MoveVMMDescr_Rubble Rain
+MoveVMMDescr_Fiery Dive
+MoveVMMDescr_Ignite Rage
+MoveVMMDescr_Krona Bite
+MoveVMMDescr_Snapping Jaws
+MoveVMMDescr_Whirlpool
+MoveVMMDescr_Broadside
+MoveVMMDescr_Winding Snap
+MoveVMMDescr_Steer the Storm
+MoveVMMDescr_Elasmo Tackle
+MoveVMMDescr_Elasmo Combo
+MoveVMMDescr_Elasmo Fury
+MoveVMMDescr_Darting Blur
+MoveVMMDescr_Torpedo Attack
+MoveVMMDescr_Ramming Horn
+MoveVMMDescr_Somnia Beam
+MoveVMMDescr_Arsith Combo
+MoveVMMDescr_Ruin Beam
+MoveVMMDescr_Toxia Beam
+MoveVMMDescr_Brontoth Combo
+MoveVMMDescr_Ruin Beam
+MoveVMMDescr_Phobia Beam
+MoveVMMDescr_Elasmoth Combo
+MoveVMMDescr_Ruin Beam
+MoveVMMDescr_Hoplo Fang
+MoveVMMDescr_Hoplo Kick
+MoveVMMDescr_Hoplo Fury
+MoveVMMDescr_Wildheart
+MoveVMMDescr_Dire Fang
+MoveVMMDescr_Dire Combo
+MoveVMMDescr_Dire Fury
+MoveVMMDescr_Wild Fire
+MoveVMMDescr_Paki Fang
+MoveVMMDescr_Paki Kick
+MoveVMMDescr_Paki Combo
+MoveVMMDescr_Icy Exhalation
+MoveVMMDescr_Trunk Lash
+MoveVMMDescr_Mammoth Cannon
+MoveVMMDescr_Mammoth Combo
+MoveVMMDescr_Glacial Barrage
+MoveVMMDescr_Raptor Kick
+MoveVMMDescr_Raptor Combo
+MoveVMMDescr_Dirt Spray
+MoveVMMDescr_Boulder Spray
+MoveVMMDescr_Slow Blow
+MoveVMMDescr_Slow Combo
+MoveVMMDescr_Slow Fury
+MoveVMMDescr_Power Dive
+MoveVMMDescr_Aqua Blast
+MoveVMMDescr_Water Blade
+MoveVMMDescr_Maelstrom
+MoveVMMDescr_Ancient Waters
+MoveVMMDescr_Plesio Poison
+MoveVMMDescr_Steel Slash
+MoveVMMDescr_Scissor Swipe
+MoveVMMDescr_Heartless Fury
+MoveVMMDescr_かそくそうちON！
+MoveVMMDescr_Death Ray
+MoveVMMDescr_Elegant Bite
+MoveVMMDescr_Lethal Waltz
+MoveVMMDescr_Graceful Rage
+MoveVMMDescr_Enchanting Aura
+MoveVMMDescr_Sapphire Doom
+MoveVMMDescr_Spite Claw
+MoveVMMDescr_Ire Combo
+MoveVMMDescr_Reaper's Wrath
+MoveVMMDescr_Quick Shout
+MoveVMMDescr_Positron Beam
+MoveVMMDescr_Royal Bite
+MoveVMMDescr_Regal Combo
+MoveVMMDescr_Imperial Wrath
+MoveVMMDescr_Rex Roar
+MoveVMMDescr_Antimatter Beam
+MoveVMMDescr_Subzero Stomp
+MoveVMMDescr_Absolute Zero
+MoveVMMDescr_Ice Age
+MoveVMMDescr_Frozen Armor
+MoveVMMDescr_イテツクりゅうせい
+MoveVMMDescr_Burning Bite
+MoveVMMDescr_Volcanic Combo
+MoveVMMDescr_Inferno Breath
+MoveVMMDescr_Roaring Fire
+MoveVMMDescr_ボルケーノブレス
+MoveVMMDescr_Zero Cloud
+MoveVMMDescr_Flaming Torpedo
+MoveVMMDescr_Burning Wave
+MoveVMMDescr_Blazing Ruin
+MoveVMMDescr_Tornado Torpedo
+MoveVMMDescr_Mighty Gust
+MoveVMMDescr_Aero Annihilation
+MoveVMMDescr_Earthen Torpedo
+MoveVMMDescr_Stone Collision
+MoveVMMDescr_Land Hammer
+MoveVMMDescr_Water Torpedo
+MoveVMMDescr_Whirlpool Blast
+MoveVMMDescr_Ocean's Fist
+MoveVMMDescr_Null Torpedo
+MoveVMMDescr_Dark Tremor
+MoveVMMDescr_Void Storm
+MoveVMMDescr_Karmic Aura
+MoveVMMDescr_Weeping Slam
+MoveVMMDescr_Whirling Displacement
+MoveVMMDescr_Tears of Dark Light
+MoveVMMDescr_Electric Doom
+MoveVMMDescr_Ominous Bite
+MoveVMMDescr_Gash Combo
+MoveVMMDescr_Cascading Savagery
+MoveVMMDescr_Billowing Anger
+MoveVMMDescr_Bend Space
+MoveVMMDescr_Ignite Anger
+MoveVMMDescr_Frenzied Mockery
+MoveVMMDescr_Unearthly Armor
+MoveVMMDescr_Poisonous Fury
+MoveVMMDescr_Venomous Barrage
+MoveVMMDescr_Headbutt
+MoveVMMDescr_Reaper
+MoveVMMDescr_Shockwave
+MoveVMMDescr_Waterspout
+MoveVMMDescr_Fly Swatter
+MoveVMMDescr_Super Enflame
+MoveVMMDescr_Super Harden
+MoveVMMDescr_Super Quicken
+MoveVMMDescr_Great Unmasking
+MoveVMMDescr_Sacrifice
+MoveVMMDescr_Law of the Jungle
+MoveVMMDescr_Razor Claw
+MoveVMMDescr_Beak of Fury
+MoveVMMDescr_Whirling Doom
+MoveVMMDescr_Rock Head
+MoveVMMDescr_Rock Shot
+MoveVMMDescr_Rock Missile
+MoveVMMDescr_Rock Bombing
+MoveVMMDescr_Running Smash
+MoveVMMDescr_Leaping Gore
+MoveVMMDescr_Einio Tornado
+MoveVMMDescr_Pachrino Tornado
+MoveVMMDescr_Penta Bomb
+MoveVMMDescr_Scorch Breath
+MoveVMMDescr_Ocean Pulse
+MoveVMMDescr_Glacial Rage
+MoveVMMDescr_Poisonous Assault
+MoveVMMDescr_Smilo Bite
+MoveVMMDescr_Smilo Kick
+MoveVMMDescr_Smilo Rage
+MoveVMMDescr_Fiendish Headbutt
+MoveVMMDescr_Fiendish Ram
+MoveVMMDescr_Fiendish Missile
+MoveVMMDescr_Fiendish Barrage
+MoveVMMDescr_Siege Tower
+MoveVMMDescr_Awesome Presence
+MoveVMMDescr_Culture Shock
+MoveVMMDescr_Neutralize
+MoveVMMDescr_Healing Song
+MoveVMMDescr_Perplexing Chitter
+MoveVMMDescr_Toxic Chitter
+MoveVMMDescr_Poison Tail
+MoveVMMDescr_Poison Spin
+MoveVMMDescr_TK Bubble
+MoveVMMDescr_Vampiric Strength
+MoveVMMDescr_Lantern Blight
+MoveVMMDescr_Rattling Sabers
+MoveVMMDescr_Tidal Assault
+MoveVMMDescr_Subzero Stomp
+MoveVMMDescr_Absolute Zero
+MoveVMMDescr_Ice Age
+MoveVMMDescr_Frozen Armor
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+KeyItems
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+JournalEntries
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+MaskNames
+EnemyFighterNames_プレイヤーのサンプル名
+EnemyFighterNames_【debug】敵のサンプル名
+EnemyFighterNames_test
+EnemyFighterNames_【unused】チュートル
+EnemyFighterNames_Tipper
+EnemyFighterNames_Holt
+EnemyFighterNames_Capt. Travers
+EnemyFighterNames_P.B. Jay
+EnemyFighterNames_Medal-Dealer Joe
+EnemyFighterNames_Wendy
+EnemyFighterNames_Eli
+EnemyFighterNames_Sally
+EnemyFighterNames_Holt
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】ヒデカズ
+EnemyFighterNames_Tony
+EnemyFighterNames_Tim
+EnemyFighterNames_Nate
+EnemyFighterNames_Nate
+EnemyFighterNames_Clare
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Holt
+EnemyFighterNames_Shady Guy
+EnemyFighterNames_Dog
+EnemyFighterNames_Long-Nosed Man
+EnemyFighterNames_Vivian
+EnemyFighterNames_Staff
+EnemyFighterNames_Staff
+EnemyFighterNames_Holt
+EnemyFighterNames_Nevada
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Steve
+EnemyFighterNames_Steve
+EnemyFighterNames_Amanda
+EnemyFighterNames_Tony
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Attendant
+EnemyFighterNames_Rex
+EnemyFighterNames_Snivels
+EnemyFighterNames_【unused】ジュンコ
+EnemyFighterNames_Holt
+EnemyFighterNames_Holt
+EnemyFighterNames_McJunker
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】ジュンコ
+EnemyFighterNames_【unused】ハッサン
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_Holt
+EnemyFighterNames_Rex
+EnemyFighterNames_Snivels
+EnemyFighterNames_Vivian
+EnemyFighterNames_Woolbeard
+EnemyFighterNames_Staff
+EnemyFighterNames_Staff
+EnemyFighterNames_Holt
+EnemyFighterNames_Nick Nack
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】サツキ
+EnemyFighterNames_【unused】フランク
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_Rex
+EnemyFighterNames_Snivels
+EnemyFighterNames_Vivian
+EnemyFighterNames_BB Boss
+EnemyFighterNames_Dr. Diggins
+EnemyFighterNames_Jane
+EnemyFighterNames_Mrs. Riggle
+EnemyFighterNames_Holt
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】ササキのおばさん
+EnemyFighterNames_【unused】ウメおばあちゃん
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_Duna
+EnemyFighterNames_Bullwort
+EnemyFighterNames_Bullwort
+EnemyFighterNames_Bullwort
+EnemyFighterNames_Westley
+EnemyFighterNames_Mr. Ozzlewit
+EnemyFighterNames_Holt
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Westley
+EnemyFighterNames_【unused】タケダのじいさん
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_BB Soldier
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_[Saurhead] 1st
+EnemyFighterNames_[Saurhead] 2nd
+EnemyFighterNames_[Saurhead] 3rd
+EnemyFighterNames_[Saurhead] 4th
+EnemyFighterNames_【unused】サドンデス五戦目
+EnemyFighterNames_【unused】サドンデス六戦目
+EnemyFighterNames_【unused】サドンデス七戦目
+EnemyFighterNames_【unused】サドンデス八戦目
+EnemyFighterNames_【unused】サドンデス九戦目
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Dinaurian
+EnemyFighterNames_Sally
+EnemyFighterNames_【unused】フランク
+EnemyFighterNames_$p
+EnemyFighterNames_Raptin
+EnemyFighterNames_Dinaurian
+EnemyFighterNames_Dinaurian
+EnemyFighterNames_Dinaurian
+EnemyFighterNames_Dinaurian
+EnemyFighterNames_Dynal
+EnemyFighterNames_Guhnash
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】タケダのじいさん
+EnemyFighterNames_【unused】サツキ
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Chip
+EnemyFighterNames_Dr. Diggins
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Rosie
+EnemyFighterNames_McJunker
+EnemyFighterNames_Vivian
+EnemyFighterNames_Snivels
+EnemyFighterNames_Rex
+EnemyFighterNames_Woolbeard
+EnemyFighterNames_Nevada
+EnemyFighterNames_Nick Nack
+EnemyFighterNames_Holt
+EnemyFighterNames_Samurai
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Samurai
+EnemyFighterNames_Blambeau
+EnemyFighterNames_Blambeau
+EnemyFighterNames_Blambeau
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_Fossil Fighter
+EnemyFighterNames_【unused】チュートリアル１
+EnemyFighterNames_【unused】チュートリアル２
+EnemyFighterNames_【unused】チュートリアル３
+EnemyFighterNames_Petey
+EnemyFighterNames_Petey
+EnemyFighterNames_[Saurhead] 1st
+EnemyFighterNames_[Saurhead] 2nd
+EnemyFighterNames_[Saurhead] 3rd
+EnemyFighterNames_Dynal
+EnemyFighterNames_Guhnash
+EnemyFighterNames_Guhnash
+EnemyFighterNames_Nevada
+EnemyFighterNames_Woolbeard
+EnemyFighterNames_Dynal
+EnemyFighterNames_Rex
+EnemyFighterNames_Snivels
+EnemyFighterNames_Vivian
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Saurhead
+EnemyFighterNames_Fossil Fighter
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+Unused
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+JewelNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+MapNames
+ListHelpText
+ListHelpText
+ListHelpText
+ListHelpText

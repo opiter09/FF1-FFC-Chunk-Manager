@@ -87,5 +87,5 @@ Also for CrystalTile2, insert the file as follows:
 5. Now save the ROM. CrystalTile2 is weird, so if the Save option in the File menu is greyed-out, you will have to save by
    trying to quit and clicking No to cancel, then quitting for real (which entails clicking Yes twice).
 
-Credits to jianminyong for generating the very first name table used here, FFC attack names. And also, of course, for working out
-the compression of this game, without which none of this would be possible.
+Credits to jianminyong for generating the very first name table used here, the FFC attack names. And also, of course, for working
+out the compression of this game, without which none of this would be possible.
